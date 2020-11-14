@@ -1,0 +1,1726 @@
+author,affil,sessionid,talkid
+Rajesh Davé,New Jersey Institute of Technology,0,0.0
+Sangah Kim,New Jersey Institute of Technology,0,0.0
+Christian Borchardt,Creighton Univeristy,0,1.0
+Arun Jayaraman,University of Illinois,0,1.0
+Maxx Capece,AbbVie,0,1.0
+Staffan Folestad,AstraZeneca R&D Gothenburg,0,2.0
+Damiano La Zara,Delft University of Technology,0,2.0
+Gunilla Petersson,AstraZeneca R&D Gothenburg,0,2.0
+Mike J. Quayle,AstraZeneca R&D Gothenburg,0,2.0
+Feilong Sun,Delft University of Technology,0,2.0
+J. Ruud van Ommen,Delft University of Technology,0,2.0
+Fuweng Zhang,Delft University of Technology,0,2.0
+Wen-Kai Hsiao,Research Center Pharmaceutical Engineering,0,3.0
+Amrit Paudel,European Consortium for Continuous Pharmaceutical Manufacturing (ECCPM),0,3.0
+Joana T. Pinto,Research Center Pharmaceutical Engineering GmbH,0,3.0
+Michela Beretta,European Consortium for Continuous Pharmaceutical Manufacturing (ECCPM),0,3.0
+Maria Paisana,Hovione FarmaCiência SA,0,4.0
+Luis Sousa,Hovione,0,4.0
+Ricardo Goncalves,Hovione,0,4.0
+James D. Litster,University of Sheffield,0,5.0
+Kate Pitt,The University of Sheffield,0,5.0
+Jonathan D. Tew,The University of Sheffield,0,5.0
+Rachel M. Smith,The University of Sheffield,0,5.0
+Mahesh K. Mahanthappa,University of Minnesota,0,6.0
+Shubhajit Paul,University of Minnesota,0,6.0
+Changquan Sun,University of Minnesota,0,6.0
+Kunlin Wang,University of Minnesota,0,6.0
+Hongyun Xu,University of Minnesota,0,6.0
+Hongbo Chen,University of Minnesota,0,6.0
+Stefan Bernhard,Carnegie Mellon University,1,0.0
+Jill E. Millstone,University of Pittsburgh,1,0.0
+Zachary Ulissi,Carnegie Mellon University,1,0.0
+John R. Kitchin,Carnegie Mellon University,1,0.0
+Siddharth Deshpande,Purdue University,1,1.0
+Jeffrey Greeley,Purdue University,1,1.0
+Jeffrey T. Miller,Purdue University,1,1.0
+Fabio H. Ribeiro,Purdue University,1,1.0
+Yinan Xu,Purdue University,1,1.0
+Ranga Rohit Seemakurthi,Purdue University,1,1.0
+Bryan R. Goldsmith,University of Michigan,1,2.0
+Suljo Linic,University of Michigan,1,2.0
+Jacques Esterhuizen,University of Michigan,1,2.0
+Frank Abild-Pedersen,SLAC National Accelerator Laboratory,1,3.0
+Jeffrey Greeley,Purdue University,1,3.0
+Paulami Majumdar,Purdue University,1,3.0
+Lavie Rekhi,Nanyang Technological University,1,3.0
+Verena Streibel,SLAC National Accelerator Laboratory,1,3.0
+Tej S. Choksi,Nanyang Technological University,1,3.0
+Giannis Mpourmpakis,University of Pittsburgh,1,4.0
+James Dean,University of Pittsburgh,1,4.0
+Luke Achenie,Virginia Polytechnic Institute and State University,1,5.0
+Noushin Omidvar,Virginia Polytechnic Institute and State University,1,5.0
+Shih-Han Wang,Virginia Tech,1,5.0
+Siwen Wang,Virginia Polytechnic Institute and State University,1,5.0
+Hongliang Xin,Virginia Polytechnic Institute and State University,1,5.0
+John A. Keith,University of Pittsburgh,1,6.0
+Karthikeyan Saravanan,University of Pittsburgh,1,6.0
+Lingyan Zhao,University of Pittsburgh,1,6.0
+Charles Griego,University of Pittsburgh,1,6.0
+Naveen Arunachalam,Massachusetts Institute of Technology,2,0.0
+Chenru Duan,Massachusetts Institute of Technology,2,0.0
+Daniel Harper,Massachusetts Institute of Technology,2,0.0
+Jon Paul Janet,Massachusetts Institute of Technology,2,0.0
+Fang Liu,Massachusetts Institute of Technology,2,0.0
+Aditya Nandy,Massachusetts Institute of Technology,2,0.0
+Michael Taylor,Massachusetts Institute of Technology,2,0.0
+Heather J. Kulik,Massachusetts Institute of Technology,2,0.0
+Stephanie Valleau,University of Washington,2,1.0
+Luke Achenie,Virginia Polytechnic Institute and State University,2,2.0
+Foster Agblevor,Utah State University,2,2.0
+Gbolade O. Kayode,Tulane University,2,3.0
+Chukwudi F. Nwaokorie,Tulane University,2,3.0
+Matthew M. Montemore,Tulane University,2,3.0
+Lowik Chanussot,Facebook AI Research,2,4.0
+Abhishek Das,Georgia Tech,2,4.0
+Siddharth Goyal,Facebook AI Research,2,4.0
+Javier Heras-Domingo,Carnegie Mellon University,2,4.0
+Caleb Ho,Facebook AI Research,2,4.0
+Thibaut Lavril,Facebook AI Research,2,4.0
+Aini Palizhati,Carnegie Mellon University,2,4.0
+Devi Parikh,Georgia Tech and Facebook AI Research,2,4.0
+Morgane Riviere,Facebook AI Research,2,4.0
+Muhammed Shuaibi,Carnegie Mellon University,2,4.0
+Kevin Tran,Carnegie Mellon University,2,4.0
+Junwoong Yoon,Carnegie Mellon University,2,4.0
+C. Lawrence Zitnick,Facebook AI Research,2,4.0
+Zachary Ulissi,Carnegie Mellon University,2,4.0
+Michal Bajdich,SLAC National Accelerator Laboratory,2,5.0
+Thomas Bligaard,SLAC National Accelerator Laboratory,2,5.0
+Raul A. Flores,Stanford University,2,5.0
+Ankit Jain,IIT Bombay,2,5.0
+Kirsten T. Winther,SLAC National Accelerator Laboratory,2,5.0
+Meng Li,Rice University,2,6.0
+Daniel Martinez,Rice University,2,6.0
+Thomas P. Senftle,Rice University,2,6.0
+Shijia Zhang,Pennsylvania State University,2,6.0
+Chun-Yen Liu,Rice University,2,6.0
+Dionisios G. Vlachos,University of Delaware,2,7.0
+Linas Mockus,Purdue University,3,0.0
+Gintaras V. Reklaitis,Purdue University,3,0.0
+Francesco Rossi,Purdue University,3,0.0
+Victor M. Zavala,University of Wisconsin-Madison,3,1.0
+Alexander Smith,University of Wisconsin-Madison,3,1.0
+Panagiotis D. Christofides,"University of California, Los Angeles",3,2.0
+Yangyao Ding,"University of California, Los Angeles",3,2.0
+Yichi Zhang,"University of California, Los Angeles",3,2.0
+Yi Ming Ren,"University of California, Los Angeles",3,2.0
+Shuyun Li,West Virginia University,3,3.0
+Fernando V. Lima,West Virginia University,3,3.0
+Mariano Martín,University of Salamanca,3,3.0
+Gerardo Ruiz-Mercado,U.S. Environmental Protection Agency,3,3.0
+Jose D. Hernandez-Betancur,U.S. Environmental Protection Agency,3,3.0
+Logan Blakely,Sandia National Laboratories,3,4.0
+Fani Boukouvala,Georgia Institute of Technology,3,4.0
+Anya Castillo,Sandia National Laboratories,3,4.0
+Michael Eydenberg,Sandia National Laboratories,3,4.0
+Carl D. Laird,Sandia National Laboratories,3,4.0
+Zachary Kilwein,Georgia Institute of Technology,3,4.0
+Q. Peter He,Auburn University,3,5.0
+Zhihua Jiang,"Alabama Center for Paper and Bioresource Engineering, Dept. of Chemical Engineering, Auburn University",3,5.0
+Jin Wang,Auburn University,3,5.0
+Kerul Suthar,Auburn University,3,5.0
+Arnab Dutta,National University of Singapore,3,6.0
+Farooq Shamsuzzaman,National University of Singapore,3,6.0
+Iftekhar A. Karimi,National University of Singapore,3,6.0
+Sara Badr,The University of Tokyo,3,7.0
+Hirokazu Sugiyama,The University of Tokyo,3,7.0
+Philipp Zürcher,The University of Tokyo,3,7.0
+Joseph Brindle,The University of Utah,4,0.0
+Patrick Nelson,The University of Utah,4,0.0
+Chinmay Verma,The University of Utah,4,0.0
+Michael M. Nigra,The University of Utah,4,0.0
+Wenyu Gu,Stanford University,4,1.0
+Ross D. Milton,Stanford University,4,1.0
+Alfred M. Spormann,Stanford University,4,1.0
+John C. Ruth,Stanford University,4,1.0
+Andreas S. Bommarius,Georgia Institute of Technology,4,2.0
+Martha A. Grover,Georgia Institute of Technology,4,2.0
+Ronald W. Rousseau,Georgia Institute of Technology,4,2.0
+Patrick R. Harris,Georgia Institute of Technology,4,2.0
+Frantisek Muzika,"University of Chemistry and Technology, Prague",4,3.0
+Lenka Schreiberova,"University of Chemistry and Technology, Prague",4,3.0
+Igor Schreiber,"University of Chemistry and Technology, Prague",4,3.0
+Yu Chen,Tianjin University,4,4.0
+Yiying Sun,Tianjin University,4,4.0
+Xueying Wang,Tianjin University,4,4.0
+Yang Zhao,Tianjin University,4,4.0
+Jiafu Shi,Tianjin University,4,4.0
+Kaitong Chen,zhejiang university,4,5.0
+Nathan Abraham,The University of Colorado Boulder,5,0.0
+Eric Dybeck,Pfizer Inc.,5,0.0
+Marcus Hock,University of Colorado Boulder,5,0.0
+Michael R. Shirts,University of Colorado Boulder,5,0.0
+Gregory Beran,"University of California, Riverside",5,1.0
+Chao Chang,XtalPi Inc,5,2.0
+Yingdi Jin,XtalPi Inc.,5,2.0
+Sizhu Li,XtalPi Inc,5,2.0
+Baimei Shi,XtalPi Inc,5,2.0
+GuangXu Sun,XtalPi Inc,5,2.0
+Zhuocen Yang,XtalPi Inc,5,2.0
+Yuriy Abramov,XtalPi Inc,5,2.0
+Michael F. Doherty,University of California,5,3.0
+Steven Landis,University of California Santa Barbara,5,3.0
+Yongsheng Zhao,University of California Santa Barbara,5,3.0
+Sten Nilsson Lill,AstraZeneca,5,4.0
+Shubhajit Paul,University of Minnesota,5,4.0
+Changquan Sun,University of Minnesota,5,4.0
+David Sun,University of Minnesota,5,4.0
+Chenguang Wang,University of Minnesota,5,4.0
+Andreas S. Bommarius,Georgia Institute of Technology,6,0.0
+Majid Ebrahimi Warkiani,University of Technology Sydney,6,0.0
+Martha A. Grover,Georgia Institute of Technology,6,0.0
+Matthew A. McDonald,Georgia Institute of Technology,6,0.0
+Sajad Razavi Bazaz,University of Technology Sydney,6,0.0
+Ronald W. Rousseau,Georgia Institute of Technology,6,0.0
+Hossein Salami,Georgia Institute of Technology,6,0.0
+Christopher L. Burcham,Eli Lilly and Company,6,1.0
+Shivani Kshirsagar,Purdue University,6,1.0
+Zoltan K. Nagy,Purdue University,6,1.0
+Joseph Oliva,Purdue University,6,1.0
+Wei-Lee Wu,Purdue University,6,1.0
+Matthew Bio,Snapdragon Chemistry,6,2.0
+Christopher P. Breen,Massachusetts Institute of Technology,6,2.0
+Timothy Jamison,Massachusetts Institute of Technology,6,2.0
+Sudip Majumdar,Compact Membrane Systems,6,2.0
+Christine Parrish,Compact Membrane Systems,6,2.0
+Ning Shangguan,Compact Membrane Systems,6,2.0
+Hannah Murnen,Compact Membrane Systems,6,2.0
+Elie Chaaya,AbbVie,6,3.0
+Moiz Diwan,AbbVie,6,3.0
+Duygu Gerceker,Abbvie,6,3.0
+Kaid Harper,AbbVie,6,3.0
+Brian Kotecki,AbbVie,6,3.0
+Shashank Shekhar,AbbVie,6,3.0
+Greg Storer,AbbVie,6,3.0
+Onkar Manjrekar,AbbVie,6,3.0
+Fernando Albericio,University of KwaZulu-Natal,6,4.0
+Piers Gaffney,Imperial College London,6,4.0
+Andrew G. Livingston,Imperial College London,6,4.0
+Carla Luciani,Eli Lilly and Company,6,4.0
+Ludmila G. Peeva,Imperial College London,6,4.0
+Jet Yeo,Imperial College London,6,4.0
+Maria Inês Lopes,"Hovione Farmaciencia, S.A.",6,5.0
+Ruth Morais,"Hovione Farmaciencia, S.A.",6,5.0
+Susana Nascimento,"Hovione Farmaciencia, S.A.",6,5.0
+Rui Pina Campos,"Hovione Farmaciencia, S.A.",6,5.0
+Shawn Conway,Cambrex High Point,6,6.0
+Pieter Otten,Cambrex High Point,6,6.0
+Christopher Lippelt,Cambrex High Point,6,6.0
+Andreas S. Bommarius,Georgia Institute of Technology,7,0.0
+Martha A. Grover,Georgia Institute of Technology,7,0.0
+Grant D. Marshall,Georgia Institute of Technology,7,0.0
+Matthew A. McDonald,Georgia Institute of Technology,7,0.0
+Ronald W. Rousseau,Georgia Institute of Technology,7,0.0
+Hossein Salami,Georgia Institute of Technology,7,0.0
+Patrick R. Harris,Georgia Institute of Technology,7,0.0
+Jacob Heltzel,"Merck & Co., Inc.",7,1.0
+Athanas Koynov,"Merck & Co., Inc.",7,1.0
+Eric Margelefsky,"Merck & Co., Inc.",7,1.0
+Kevin Sirk,"Merck & Co., Inc.",7,1.0
+Dirk Stueber,"Merck & Co., Inc.",7,1.0
+Richard Varsolona,"Merck & Co., Inc.",7,1.0
+Rachel S. Bade,"Merck & Co., Inc.",7,1.0
+Wenqian Chen,Imperial College London,7,2.0
+Jerry Y. Y. Heng,Imperial College London,7,2.0
+Xiaoyu Li,Imperial College London,7,2.0
+Ian Rosbottom,Imperial College London,7,2.0
+Jerry Y. Y. Heng,Imperial College London,7,3.0
+Frederik J. Link,Imperial College London,7,3.0
+Manish S. Kelkar,Abbvie Inc.,7,4.0
+Nandkishor K. Nere,AbbVie Inc.,7,4.0
+Meenesh R. Singh,University of Illinois at Chicago,7,4.0
+Paria Coliaie,UNIVERSITY OF ILLINOIS AT CHICAGO,7,4.0
+Davide Comisso,"Aptuit, an Evotec Company",7,5.0
+Matteo Daldosso,"Aptuit, an Evotec Company",7,5.0
+Marina Galvani,"Aptuit, an Evotec Company",7,5.0
+Francesco Martinelli,"Aptuit, an Evotec Company",7,5.0
+Wayne Morley,"Aptuit, an Evotec Company",7,5.0
+Irene Parisini,"Aptuit, an Evotec Company",7,5.0
+Martina Saccani,"Aptuit, an Evotec Company",7,5.0
+Federico Scaravelli,"Aptuit, an Evotec Company",7,5.0
+Tanya Wallace,BlackThorn Therapeutics,7,5.0
+Otute Akiti,BlackThorn Therapeutics,7,5.0
+Tanner Kontny,Norwich University,8,0.0
+Patrick S. Doyle,Massachusetts Institute of Technology,8,1.0
+Saif A. Khan,National University of Singapore,8,1.0
+Arif Z. Nelson,Singapore-MIT Alliance for Research and Technology,8,1.0
+John Baumann,Lonza,8,2.0
+Kimberly B. Shepard,Lonza,8,2.0
+Leon Z. Wang,Princeton University,8,2.0
+Molly Adam,Lonza,8,2.0
+Molly Adam,Lonza,8,3.0
+John Baumann,Lonza,8,3.0
+Deanna Mudie,Lonza,8,3.0
+Kimberly B. Shepard,Lonza,8,3.0
+Dillon Wright,Lonza,8,3.0
+Carl Hartmann III,Eli Lilly,8,4.0
+Jon Hilden,Eli Lilly and Company,8,4.0
+Seth Huggins,Amgen Inc.,9,0.0
+Daniel Griffin,Amgen Inc.,9,0.0
+Ahmed Zidan,U.S. Food and Drug Administration,9,1.0
+Adel Mhamdi,RWTH Aachen University,9,2.0
+Alexander Mitsos,RWTH Aachen University,9,2.0
+Chrysoula D. Kappatou,RWTH Aachen University,9,2.0
+Iftekhar A. Karimi,National University of Singapore,9,3.0
+Xiaonan Wang,National University of Singapore,9,3.0
+Apoorva Katragadda,National University of Singapore,9,3.0
+Jong Min Lee,Seoul National University,9,4.0
+Tae Hoon Oh,Seoul National University,9,4.0
+Anna Parsons,AstraZeneca,9,5.0
+David Streather,AstraZeneca,9,5.0
+Daniel O. Blackwood,Pfizer Worldwide Research and Development,10,0.0
+Jenna Brandon,"Worldwide Research and Development, Pfizer Inc.",10,0.0
+Pankaj Doshi,Pfizer Inc.,10,0.0
+Ashwinkumar Jain,"Worldwide Research and Development, Pfizer Inc.",10,0.0
+James Kimber,"Worldwide Research and Development, Pfizer Inc.",10,0.0
+David Wilsdon,"Worldwide Research and Development, Pfizer Inc.",10,0.0
+Kai Lee,Pfizer Inc.,10,0.0
+Julius Arntzen,TU Dortmund University,10,1.0
+Isabella Putz,TU Dortmund University,10,1.0
+Markus Thommes,TU Dortmund University,10,1.0
+Vanessa Duephans,TU Dortmund University,10,1.0
+Jon Hilden,Eli Lilly and Company,10,2.0
+Carl Hartmann III,Eli Lilly,10,2.0
+Salvador García-Muñoz,Eli Lilly and Company,10,3.0
+Joshua Hanson,Eli Lilly and Company,10,3.0
+Nick Sahinidis,Carnegie Mellon University,10,3.0
+Maitraye Sen,Eli Lilly and Company,10,3.0
+David Slade,Process Systems Enterprise Limited,10,3.0
+Brad Johnson,Carnegie Mellon University,10,3.0
+Betsy Macht,PCTS EPOTSE,10,4.0
+Stuart C. Porter,PCTS EPOTSE,10,4.0
+Michael Choi,"PCTS, Inc.",10,4.0
+Hayao Nakanishi,"Shionogi & Co., Ltd",10,5.0
+Hirokazu Sugiyama,The University of Tokyo,10,5.0
+Yasuyuki Yoshioka,"Shionogi Pharma Co., Ltd.",10,5.0
+Masahiro Yamada,The University of Tokyo,10,5.0
+Gabriela Ruphuy Chan,University of Chemistry and Technology,10,6.0
+František Štěpánek,University of Chemistry and Technology Prague,10,6.0
+Vojtech Klimsa,University of Chemistry and Technology,10,6.0
+Daniel J. Jarmer,Eli Lilly and Company,11,0.0
+Mark S. Kerr,Eli Lilly and Company,11,0.0
+Mark A. Pietz,Eli Lilly and Company,11,0.0
+Brandon Reizman,Eli Lilly and Company,11,0.0
+Benjamin M. Cohen,Bristol-Myers Squibb,11,1.0
+Amanda Rogers,Bristol-Myers Squibb,11,1.0
+Qinggang Wang,Bristol-Myers Squibb,11,1.0
+Miao Yu,Bristol-Myers Squibb,11,1.0
+Changxia Yuan,Bristol-Myers Squibb,11,1.0
+Guanghui Zhu,Georgia Institute of Technology,11,1.0
+Geoffrey E. Purdum,Bristol-Myers Squibb,11,1.0
+Anastasia Artamonova,Massachusetts Institute of Technology,11,2.0
+Paul W. Barone,Massachusetts Institute of Technology,11,2.0
+Dragana Bozinovski,Massachusetts Institute of Technology,11,2.0
+Richard Braatz,Massachusetts Institute of Technology,11,2.0
+Elizabeth M. Cummings Bende,Massachusetts Institute of Technology,11,2.0
+Moo Sun Hong,Massachusetts Institute of Technology,11,2.0
+Amos E. Lu,Massachusetts Institute of Technology,11,2.0
+Nili Persits,Massachusetts Institute of Technology,11,2.0
+Rajeev J Ram,Massachusetts Institute of Technology,11,2.0
+Jose Sangerman,Massachusetts Institute of Technology,11,2.0
+Anthony J Sinskey,Massachusetts Institute of Technology,11,2.0
+Stacy Springs,Massachusetts Institute of Technology,11,2.0
+Weike Sun,Massachusetts Institute of Technology,11,2.0
+Rui Wen Ou,Massachusetts Institute of Technology,11,2.0
+Jacqueline Wolfrum,Massachusetts Institute of Technology,11,2.0
+Andrew J. Maloney,Massachusetts Institute of Technology,11,2.0
+Prince Bhebe,Amgen,11,3.0
+Jack Chung-Jr Huang,Amgen,11,3.0
+Tony Wang,Amgen,11,3.0
+Richard Wu,Amgen,11,3.0
+Li Zhang,Amgen,11,3.0
+Madiha Khurshid,Amgen,11,3.0
+Stephen Born,CONTINUUS Pharmaceuticals,11,4.0
+Lucy L. Botros,USP,11,4.0
+Federica Casati,CONTINUUS Pharmaceuticals,11,4.0
+Atul Dubey,USP,11,4.0
+Paul Hermant,CONTINUUS Pharmaceuticals,11,4.0
+Salvatore Mascia,CONTINUUS Pharmaceuticals,11,4.0
+Wei Wu,CONTINUUS Pharmaceuticals,11,4.0
+Bayan Takizawa,CONTINUUS Pharmaceuticals,11,4.0
+Qinglin Su,CONTINUUS Pharmaceuticals,11,4.0
+Sonja Sharpe,Vertex Pharmaceuticals Inc.,12,0.0
+Michael Waldo,Vertex Pharmaceuticals Inc.,12,0.0
+Tharanga Wijethunga,Vertex Pharmaceuticals Inc.,12,0.0
+Patricia Cho,Bristol Myers Squibb,12,1.0
+John Ryan Coombs,Bristol Myers Squibb,12,1.0
+Victoria Mbachu,Bristol Myers Squibb,12,1.0
+Eric M. Saurer,Bristol Myers Squibb,12,1.0
+Simon Kuhn,KU Leuven,12,2.0
+Tom Van Gerven,KU Leuven,12,2.0
+Naghmeh Fatemi,KU Leuven,12,2.0
+Bryan G. Alamani,University of the Philippines,12,3.0
+Gerard Capellades,Massachusetts Institute of Technology,12,3.0
+Allan S. Myerson,Massachusetts Institute of Technology,12,3.0
+Jem Valerie D. Perez,University of the Philippines,12,3.0
+Isaac Jerome C. Dela Cruz,University of the Philippines,12,3.0
+Fredrik Nordstrom,Boehringer-Ingelheim,12,4.0
+Ravi Kumar Gorle,Dr. Reddy's Laboratories Ltd.,12,5.0
+Suhas Jawlekar,Dr. Reddy's Laboratories Ltd.,12,5.0
+Yakoob Sardar Mohammed,Dr. Reddy's Laboratories Ltd.,12,5.0
+Ramana Susarla,Dr. Reddy's Laboratories Ltd.,12,5.0
+Jagannadharao Velaga,Dr. Reddy's Laboratories Ltd.,12,5.0
+Manohar Venkatachalam,Dr. Reddy's Laboratories Ltd.,12,5.0
+Srividya Ramakrishnan,Dr. Reddy's Laboratories Ltd.,12,5.0
+Kristen Fichthorn,Pennsylvania State University,13,0.0
+Jianming Cui,Pennsylvania State University,13,0.0
+Bryan G. Alamani,University of the Philippines,13,1.0
+Gerard Capellades,Massachusetts Institute of Technology,13,1.0
+Allan S. Myerson,Massachusetts Institute of Technology,13,1.0
+Jem Valerie D. Perez,University of the Philippines,13,1.0
+Isaac Jerome C. Dela Cruz,University of the Philippines,13,1.0
+David Carrière,CEA Saclay,13,2.0
+Sophie Charton,"CEA, DEN",13,2.0
+Maxime Durelle,CEA Saclay,13,2.0
+Béatrice Biscans,CNRS,13,3.0
+Laurent Cassayre,CNRS,13,3.0
+Nicolas Coppey,Société Nouvelle d'Affinage des Métaux (SNAM),13,3.0
+Philippe Destrac,CNRS,13,3.0
+Cédric Foulet,Société Nouvelle d'Affinage des Métaux (SNAM),13,3.0
+Margot Zielinski,Société Nouvelle d'Affinage des Métaux (SNAM),13,3.0
+Nicola Irwin,Queen’s University Belfast,13,4.0
+Jessica Moore,Queen's University Belfast,13,4.0
+Jeffrey D. Rimer,University of Houston,13,4.0
+Doyoung Kim,University of Houston,13,4.0
+Jeremy C. Palmer,University of Houston,13,5.0
+Peter G. Vekilov,University of Houston,13,5.0
+Lakshmanji Verma,University of Houston,13,5.0
+Monika Warzecha,Strathclyde Institute Of Pharmacy and Biomedical Sciences,13,5.0
+Rajshree Chakrabarti,University of Houston,13,5.0
+Santanu Chaudhuri,"University of Illinois, Chicago",13,6.0
+Meenesh R. Singh,University of Illinois at Chicago,13,6.0
+Rajan Bhawnani,University of Illinois at Chicago,13,6.0
+Peter J. Dowding,Infineum UK Ltd.,14,0.0
+Neil George,Sungenta UK Ltd.,14,0.0
+Robert B. Hammond,University of Leeds,14,0.0
+Colin Morton,Infineum UK Ltd.,14,0.0
+Kevin J. Roberts,Institute of Particle Science and Engineering,14,0.0
+Ian Rosbottom,Imperial College London,14,0.0
+Nicholas J. Warren,University of Leeds,14,0.0
+Peter L. Kaskiewicz,University of Leeds,14,0.0
+Diane Burgess,UConn,14,1.0
+Bodhisattwa Chaudhuri,UConn,14,1.0
+Antonio Costa,UConn,14,1.0
+Xiaoming Xu,"Office of Testing and Research, U.S. Food and Drug Administration",14,1.0
+Tibo Duran,UConn,14,1.0
+Aaron Morris,Purdue University,14,2.0
+Siavash Zamani,Purdue University,14,2.0
+Marco Mazzotti,ETH Zurich,14,3.0
+Luca Bosetti,ETH Zurich,14,3.0
+Kevin J. Roberts,Institute of Particle Science and Engineering,14,4.0
+Alexander Jackson,University of Leeds,14,4.0
+Panagiotis Dimitrakopoulos,University of Maryland,14,5.0
+Abdollah Koolivand,Sharif University of Technology,14,5.0
+Taylor J. Woehl,University of Maryland,14,6.0
+Mei Wang,University of Maryland- College Park,14,6.0
+Da Pan,"A & M Technology Co.,LTD",15,0.0
+Michael Boyne,Cour Pharmaceutical Development Company,15,1.0
+Adam Elhofy,Cour Pharmaceutical Development Company,15,1.0
+Tushar Murthy,Cour Pharmaceutical Development Company,15,1.0
+Timothy Toby,Cour Pharmaceutical Development Company,15,1.0
+Greta Wodarcyk,Cour Pharmaceutical Development Company,15,1.0
+Qichen Xu,Cour Pharmaceutical Development Company,15,1.0
+Sandeep Kakade,Cour Pharmaceutical Development Company,15,1.0
+Robert Dunn,Bristol Myers Squibb,15,2.0
+Michael Zacuto,Bristol Myers Squibb,15,2.0
+Joseph Perona,Bristol Myers Squibb,15,2.0
+Aaron C. Anselmo,Massachusetts Institute of Technology,15,3.0
+Ryann Callaghan,University of North Carolina at Chapel Hill,15,3.0
+Shruti Santhosh,University of North Carolina at Chapel Hill,15,3.0
+Ava M. Vargason,University of North Carolina at Chapel Hill,15,3.0
+Shang-Tian Yang,The Ohio State University,15,4.0
+You Li,The Ohio State University,15,4.0
+Liang Chen,Biogen,15,5.0
+Rajesh Davé,New Jersey Institute of Technology,15,5.0
+Sangah Kim,New Jersey Institute of Technology,15,5.0
+Kuriakose Kunnath,New Jersey Institute of Technology,15,5.0
+Zhixing Lin,New Jersey Institute of Technology,15,5.0
+Kai Zheng,New Jersey Institute of Technology,15,5.0
+Pin-Kuang Lai,Massachusetts Institute of Technology,15,6.0
+Lauren A. Austin,"Merck & Co., Inc.",15,7.0
+Pedro J. Cejas,"Merck & Co., Inc.",15,7.0
+Heidi Ferguson,"Merck & Co., Inc.",15,7.0
+Rob Saklatvala,"Merck & Co., Inc.",15,7.0
+Julia E. Vela Ramirez,"Merck & Co., Inc.",15,7.0
+Daniel Bock,Boehringer Ingelheim,15,8.0
+Michael Kagan,Boehringer Ingelheim,15,8.0
+Dominique Monteil,Boehringer Ingelheim,15,8.0
+Qing Wong,Boehringer Ingelheim,15,8.0
+Jianfa Ou,Boehringer Ingelheim,15,8.0
+Joan Cordiner,University of Sheffeld,15,9.0
+William B. Zimmerman,University of Sheffield,15,10.0
+Joan Cordiner,University of Sheffeld,15,10.0
+Georges Assaf,UCB Pharma S.A.,16,0.0
+Ugo Cocchini,UCB Pharma S.A.,16,0.0
+Patrick Lo Brutto,UCB Pharma S.A.,16,0.0
+Elisabete Mateus,"Hovione Farmaciencia, S.A.",16,0.0
+Marta Mourão,"Hovione Farmaciencia, S.A.",16,0.0
+Fabrice Odille,UCB Pharma S.A.,16,0.0
+Ana Ribeiro,"Hovione Farmaciencia, S.A.",16,0.0
+Lucia Volta e Sousa,"Hovione Farmaciencia, S.A.",16,0.0
+Filipe Ataíde,"Hovione Farmaciencia, S.A.",16,0.0
+Meera Mahadevan,Process Systems Enterprise (PSE) Inc.- A Siemens Business,16,1.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,16,1.0
+Leonor Rosa,Process Systems Enterprise,16,1.0
+Sam Wilkinson,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,16,1.0
+Marcello Bosco,F.Hoffmann-La Roche AG,16,1.0
+Yohanes Agustinus,Bristol Myers Squibb,16,2.0
+Buck Holloway,Bristol Myers Squibb,16,2.0
+Christopher Marton,Bristol Myers Squibb,16,2.0
+Joseph Perona,Bristol Myers Squibb,16,2.0
+Kira Ragazzo,Bristol Myers Squibb,16,2.0
+Christopher Wilbert,Bristol Myers Squibb,16,2.0
+Christopher Jordan,Bristol Myers Squibb,16,2.0
+Adelia Carragher,Abbvie,16,3.0
+Elie Chaaya,AbbVie,16,3.0
+Xiao Serenity Hou,Abbvie,16,3.0
+Molly Riccitelli,Abbvie,16,3.0
+Laura McKee,AbbVie,16,3.0
+Craig Ikeda,"Merck & Co., Inc.",16,4.0
+Francis Kwofie,"Merck & Co., Inc.",16,4.0
+Brian Marks,"Merck & Co., Inc.",16,4.0
+Tracey Mascaro,"Merck & Co., Inc.",16,4.0
+Amy L. Quach,"Merck & Co., Inc.",16,4.0
+Kyra Schwartz,"Merck & Co., Inc.",16,4.0
+Matthew H. Flamm,"Merck & Co., Inc.",16,4.0
+Viraj Vilas Belekar,Iowa State University,16,5.0
+Rahul Bharadwaj,ESSS North America,16,5.0
+Mothivel Mummudi,Tridiagonal Solutions Inc.,16,5.0
+Nandkishor K. Nere,AbbVie Inc.,16,5.0
+Kushal Sinha,AbbVie Inc.,16,5.0
+Shankar Subramaniam,Iowa State University,16,5.0
+Eric Murphy,AbbVie Inc,16,5.0
+Zhenan Bao,Stanford University,17,0.0
+Sam Emaminejad,"University of California, Los Angeles",17,1.0
+Yichao Zhao,"University of California, Los Angeles",17,1.0
+Bo Wang,"University of California, Los Angeles",17,1.0
+Valery Bliznyuk,Clemson University,17,2.0
+Abenazer W. Darge,Clemson University,17,2.0
+Timothy A. DeVol,Clemson University,17,2.0
+James C. Foster,Clemson University,17,2.0
+Scott M. Husson,Clemson University,17,2.0
+Ariel Furst,University of California Berkeley,17,3.0
+Jonathan Claussen,Iowa State University,17,4.0
+Maxsam Donta,Iowa State University,17,4.0
+John Hondred,Iowa State University,17,4.0
+Kyle Jackson,Iowa State University,17,4.0
+Juhyung Jung,Iowa State University,17,4.0
+Matthew Lentner,Iowa State University,17,4.0
+Eric Mach,Iowa State University,17,4.0
+Surya K. Mallapragada,Iowa State University,17,4.0
+Metin Uz,Iowa State University,17,4.0
+Daniel A Green,GlaxoSmithKline,18,0.0
+Andreas S. Bommarius,Georgia Institute of Technology,18,1.0
+Martha A. Grover,Georgia Institute of Technology,18,1.0
+Grant D. Marshall,Georgia Institute of Technology,18,1.0
+Ronald W. Rousseau,Georgia Institute of Technology,18,1.0
+Hossein Salami,Georgia Institute of Technology,18,1.0
+Matthew A. McDonald,Georgia Institute of Technology,18,1.0
+Rajshree Chakrabarti,University of Houston,18,2.0
+Viktor Hadjiev,University of Houston,18,2.0
+Jeremy C. Palmer,University of Houston,18,2.0
+Lakshmanji Verma,University of Houston,18,2.0
+Monika Warzecha,Strathclyde Institute Of Pharmacy and Biomedical Sciences,18,2.0
+Peter G. Vekilov,University of Houston,18,2.0
+Ivan Castillo,Dow Inc.,20,0.0
+Leo H. Chiang,Dow Inc.,20,0.0
+Ricardo Rendall,Dow Inc.,20,0.0
+Jose A. Romagnoli,Louisiana State University,20,0.0
+Wenbo Zhu,Louisiana State University,20,0.0
+Zhenyu Wang,Dow Inc.,20,0.0
+Ignacio E. Grossmann,Carnegie Mellon University,20,1.0
+Hector Perez,Carnegie Mellon University,20,1.0
+Nick Sahinidis,Carnegie Mellon University,20,1.0
+Owais Sarwar,Carnegie Mellon University,20,1.0
+Christian D. Hubbs,The Dow Chemical Company,20,1.0
+Iftekhar A. Karimi,National University of Singapore,20,2.0
+Maaz Ahmad,National University of Singapore,20,2.0
+Faisal Khan,Memorial University of Newfoundland,20,3.0
+Joseph Sang-Il Kwon,Texas A&M University,20,3.0
+Bhavana Bhadriraju,Texas A&M University,20,3.0
+Qi Zhang,"University of Minnesota, Twin Cities",20,4.0
+Rishabh Gupta,"University of Minnesota, Twin Cities",20,4.0
+Tom S. Bertalan,Johns Hopkins University,20,5.0
+Ioannis G. Kevrekidis,Johns Hopkins University,20,5.0
+Yorgos M. Psarellis,Johns Hopkins University,20,5.0
+Tianqi Cui,Johns Hopkins University,20,5.0
+Fani Boukouvala,Georgia Institute of Technology,20,6.0
+Zachary Kilwein,Georgia Institute of Technology,20,6.0
+Jinhyeun Kim,Georgia Institute of Technology,20,6.0
+William Bradley,Georgia Institute of Technology,20,6.0
+Christopher L. Burcham,Eli Lilly and Company,22,0.0
+Filipe Calado,Process Systems Enterprise,22,0.0
+Steven Myers,Eli Lilly and Company,22,0.0
+Simao Pereira,Process Systems Enterprise - A Siemens Business,22,0.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,22,0.0
+Mo Jiang,Virginia Commonwealth University,22,1.0
+Mingyao Mou,Virginia Commonwealth University,22,1.0
+Wenqian Chen,Imperial College London,22,2.0
+Jerry Y. Y. Heng,Imperial College London,22,2.0
+Xiaoyu Li,Imperial College London,22,2.0
+Huaiyu Yang,Imperial College London,22,2.0
+Ian Rosbottom,Imperial College London,22,2.0
+Manish S. Kelkar,Abbvie Inc.,22,3.0
+Nandkishor K. Nere,AbbVie Inc.,22,3.0
+Meenesh R. Singh,University of Illinois at Chicago,22,3.0
+Paria Coliaie,UNIVERSITY OF ILLINOIS AT CHICAGO,22,3.0
+Simon Coleman,Alconbury Weston Ltd,22,4.0
+Shing Fung Chow,The University of Hong Kong,22,5.0
+Richard Lakerveld,The Hong Kong University of Science and Technology,22,5.0
+Jingwen Weng,The University of Hong Kong,22,5.0
+Ruipeng Chen,The Hong Kong University of Science and Technology,22,5.0
+Yihong Qiu,AbbVie,23,0.0
+Kirk Overhoff,"Vertex Pharmaceuticals, Inc.",23,1.0
+Setu Roday,"Vertex Pharmaceuticals, Inc.",23,1.0
+Katie Sokolowsky,"Vertex Pharmaceuticals, Inc.",23,1.0
+Elisa A. Torrico Guzmán,"Vertex Pharmaceuticals, Inc.",23,1.0
+Xiaorong He,Boehringer Ingelheim,23,2.0
+Dabing Chen,Boehringer Ingelheim Pharmaceutical Company,23,3.0
+Xiaorong He,Boehringer Ingelheim,23,3.0
+Yi Gao,AbbVie,23,4.0
+Aktham Aburub,Eli Lilly and Company,24,0.0
+Sarah Clark,Eli Lilly and Company,24,0.0
+Thomas D. Dziubla,University of Kentucky,24,0.0
+Mohamed ElSayed,Eli Lilly and Company,24,0.0
+Andie L. MacMillan,University of Kentucky,24,0.0
+Patrick Marsac,University of Kentucky,24,0.0
+Karthik Vaideeswaran,Eli Lilly and Company,24,0.0
+Shekhar K. Viswanath,Eli Lilly and Company,24,0.0
+M. Arif Khan,University of Kentucky,24,0.0
+Ecevit Bilgili,New Jersey Institute of Technology,24,1.0
+Xiaorong He,Boehringer Ingelheim,24,1.0
+Gulsad Kucuk,Boehringer Ingelheim,24,1.0
+Martin Maus,Boehringer Ingelheim Pharma GmbH & Co. KG,24,1.0
+Pavol Rajniak,Slovak University of Technology,24,1.0
+Daniela Schröder,Boehringer Ingelheim,24,1.0
+Leon Schultz,Boehringer Ingelheim,24,1.0
+Robert Schwabe,Boehringer Ingelheim,24,1.0
+Yni-Chao Tseng,Boehringer Ingelheim,24,1.0
+Hossein Amini,New Jersey Institute of Technology,24,1.0
+João Henriques,Hovione FarmaCiência SA,24,2.0
+Inês Nande,Hovione FarmaCiência SA,24,2.0
+Mafalda Paiva,Hovione FarmaCiência SA,24,2.0
+João F. Pinto,"iMed.ULisboa, Faculty of Pharmacy, University of Lisbon",24,2.0
+Patrícia D. Nunes,Hovione FarmaCiência SA,24,2.0
+Alfred Berchielli,Pfizer Inc.,24,3.0
+Pankaj Doshi,Pfizer Inc.,24,3.0
+Bruce C. MacDonald,Pfizer Inc.,24,3.0
+Mahesh S. Tirumkudulu,Indian Institute of Technology Bombay,24,3.0
+Weili Yu,Pfizer Inc.,24,3.0
+Bhawana S Tomar,Indian Institute of Technology Bombay,24,3.0
+Alan Carmody,"Worldwide Research, Development and Medical, Pfizer Inc.",24,4.0
+Lourdes Contreras,"Worldwide Research, Development and Medical, Pfizer Inc.",24,4.0
+Thomas Forgber,Research Center Pharmaceutical Engineering GmbH,24,4.0
+Dalibor Jajcevic,RCPE GmbH,24,4.0
+Adrian Kape,Glatt. Integrated Process Solutions,24,4.0
+Johannes G. Khinast,Graz University of Technology,24,4.0
+Avik Sarkar,"Worldwide Research, Development and Medical, Pfizer Inc.",24,4.0
+Martina Trogrlic,Research Center Pharmaceutical Engineering GmbH,24,4.0
+Stefan Madlmeir,Research Center Pharmaceutical Engineering GmbH,24,4.0
+Jeremy C. Palmer,University of Houston,25,0.0
+Peter G. Vekilov,University of Houston,25,0.0
+Lakshmanji Verma,University of Houston,25,0.0
+Monika Warzecha,Strathclyde Institute Of Pharmacy and Biomedical Sciences,25,0.0
+Rajshree Chakrabarti,University of Houston,25,0.0
+Omar A. Abdelrahman,University of Massachusetts Amherst,25,1.0
+Jesse Q. Bond,Syracuse University,25,1.0
+Joshua Gopeesingh,University of Massachusetts Amherst,25,1.0
+Ambika Somasundar,The Pennsylvania State University,25,2.0
+Kuriakose Kunnath,New Jersey Institute of Technology,25,3.0
+Paul Dauenhauer,University of Minnesota,25,4.0
+Matthew Neurock,University of Minnesota,25,4.0
+Vineet Maliekkal,University of Minnesota,25,4.0
+Sameh Elsaidi,National Energy Technology Laboratory,25,5.0
+Randy O. Ngelale,"University of California, Irvine",25,6.0
+Mikael Nilsson,"University of California, Irvine",25,6.0
+Christian G. Bustillos,"University of California, Irvine",25,6.0
+Sriramvignesh Mani,Texas Tech University,25,7.0
+M. Ziyan Sheriff,Texas A&M University,25,8.0
+Yu Luo,University of Delaware,25,9.0
+Pooja Bhalode,Rutgers University,25,10.0
+Sharon C. Glotzer,University of Michigan,25,11.0
+Michael J. Solomon,University of Michigan,25,11.0
+Bryan VanSaders,University of Michgan,25,11.0
+Tianyu Liu,University of Michigan,25,11.0
+Celeste M. Nelson,Princeton University,25,12.0
+Lena A. Barrett,Princeton University,25,12.0
+Aleksandra Vojvodic,University of Pennsylvania,25,13.0
+Luke Johnson,University of Pennsylvania,25,13.0
+Alex K. Chew,University of Wisconsin-Madison,25,14.0
+Andrew P. Santos,Sandia National Laboratories,25,15.0
+Chatarin Wangsanuwat,"University of California, Santa Barbara",25,16.0
+Prayag Biswal,Cornell University,25,17.0
+Nicholas Brunelli,The Ohio State University,25,18.0
+Aamena Parulkar,The Ohio State University,25,18.0
+Alexander Spanos,The Ohio State University,25,18.0
+Pinaki Ranadive,The Ohio State University,25,18.0
+Adam G. Berger,Harvard-MIT,25,19.0
+Paula T. Hammond,MIT,25,19.0
+John Martin,MIT,25,19.0
+Sheryl Wang,MIT,25,19.0
+MayLin Howard,MIT,25,19.0
+Salvador García-Muñoz,Eli Lilly and Company,25,20.0
+Joshua Hanson,Eli Lilly and Company,25,20.0
+Nick Sahinidis,Carnegie Mellon University,25,20.0
+Maitraye Sen,Eli Lilly and Company,25,20.0
+David Slade,Process Systems Enterprise Limited,25,20.0
+Brad Johnson,Carnegie Mellon University,25,20.0
+Panagiotis Dimitrakopoulos,University of Maryland,25,21.0
+Pompon Mputu Udipabu,University of Maryland,25,21.0
+Songi Han,"University of California, Santa Barbara",25,22.0
+Susannah L. Scott,"University of California, Santa Barbara",25,22.0
+Hyunjin Moon,University of California Santa Barbara,25,22.0
+Bradley C. Dallin,University of Wisconsin-Madison,25,23.0
+Madhuresh K. Choudhary,University of Houston,25,24.0
+Jeffrey D. Rimer,University of Houston,25,24.0
+Rishabh Jain,University of Houston,25,24.0
+Yijun Qi,Iowa State University,25,25.0
+Michael C. Grady,Axalta Coating Systems,25,26.0
+Masoud Soroush,Drexel University,25,26.0
+Hossein Riazi,Drexel University,25,26.0
+Jerome Delhommelle,University of North Dakota,25,27.0
+Othman Ghribi,University of North Dakota,25,27.0
+Karnesh Jain,University of North Dakota,25,27.0
+Shrilakshmi Bonageri,University of Washington,25,28.0
+Maria Politi,University of Washington,25,28.0
+Lilo Pozzo,University of Washington,25,28.0
+Sage Scheiwiller,University of Washington,25,28.0
+Jaime Rodriguez Jr.,University of Washington,25,28.0
+Wei Bu,"NSF's ChemMatCARS, University of Chicago",25,29.0
+Paola Leon Plata,University of Illinois at Chicago,25,29.0
+Binhua Lin,"NSF's ChemMatCARS, University of Chicago",25,29.0
+Chang Liu,University of Illinois at Chicago,25,29.0
+Ying Liu,University of Illinois at Chicago,25,29.0
+Anand Vellara,University of Illinois at Chicago,25,29.0
+Pin Zhang,University of Illinois at Chicago,25,29.0
+Tiep Hoang Pham,University of Illinois at Chicago,25,29.0
+Remil Aguda,University of Louisiana,25,30.0
+Deborah E. Leckband,University of Illinois,25,31.0
+Daniel K. Schwartz,University of Colorado Boulder,25,31.0
+Zhaoqian Su,Albert Einstein College of Medicine,25,31.0
+Vinh H. Vu,University of Illinois,25,31.0
+Yinghao Wu,Albert Einstein College of Medicine,25,31.0
+Connor J. Thompson,University of Colorado at Boulder,25,31.0
+Andrew J. Maloney,Massachusetts Institute of Technology,25,32.0
+Daniel Kienle,University of Colorado Boulder,25,33.0
+Daniel K. Schwartz,University of Colorado Boulder,25,33.0
+Jeremiah Traeger,University of Colorado Boulder,25,33.0
+James S. Weltz,University of Colorado Boulder,25,33.0
+Gregory T. Morrin,University of Colorado Boulder,25,33.0
+Jeffrey Greeley,Purdue University,25,34.0
+Pushkar Ghanekar,Purdue University,25,34.0
+Charles M. Schroeder,University of Illinois at Urbana-Champaign,25,35.0
+Dinesh Kumar,University of Illinois at Urbana-Champaign,25,35.0
+Bin Liu,Kansas State University,25,36.0
+Jiayi Xu,Kansas State University,25,36.0
+François Berthiaume,Rutgers University,25,37.0
+David DiCaudo,Mayo Clinic,25,37.0
+Jacquelyn Kilbourne,Arizona State University,25,37.0
+Suneel Kumar,Rutgers University,25,37.0
+Kaushal Rege,Arizona State University,25,37.0
+Russell Urie,Arizona State University,25,37.0
+Jordan Yaron,Arizona State University,25,37.0
+Deepanjan Ghosh,Arizona State University,25,37.0
+Matthew Belowich,The Dow Chemical Company,25,38.0
+Charmaine Bennett,Northwestern University,25,38.0
+Linda Broadbelt,Northwestern University,25,38.0
+SonBinh Nguyen,Northwestern University,25,38.0
+Justin Notestein,Northwestern University,25,38.0
+Arjun Raghuraman,The Dow Chemical Company,25,38.0
+Ying Yu,The Dow Chemical Company,25,38.0
+Mihir Bhagat,Northwestern University,25,38.0
+Kristen Fichthorn,Pennsylvania State University,25,39.0
+Tianyu Yan,Pennsylvania State University,25,39.0
+Hyunjoon Kong,"University of Illinois, Urbana-Champaign",25,40.0
+Yu-Tong Hong,"University of Illinois, Urbana-Champaign",25,40.0
+Matthew Liberatore,University of Toledo,25,41.0
+Ehsan Akbari Fakhrabadi,University of Toledo,25,41.0
+Samarthaben J. Patel,University of Wisconsin-Madison,25,42.0
+Omar A. Abdelrahman,University of Massachusetts Amherst,25,43.0
+Paul Dauenhauer,University of Minnesota,25,43.0
+Michael Tsapatsis,Johns Hopkins University,25,43.0
+Gaurav Kumar,University of Minnesota,25,43.0
+Michael Miranda,Oklahoma State University,25,44.0
+Jianshan Liao,Georgia Institute of Technology,25,45.0
+Fani Boukouvala,Georgia Institute of Technology,25,46.0
+William Bradley,Georgia Institute of Technology,25,46.0
+Ou Yang,"Rutgers, The State University of New Jersey",25,47.0
+Michael Janik,Pennsylvania State University,25,48.0
+Ahana Mukhopadhyay,Pennsylvania State University,25,48.0
+Robert Rioux,Pennsylvania State University,25,48.0
+Linxi Wang,Pennsylvania State University,25,48.0
+Shyam Deo,Pennsylvania State University,25,48.0
+Justin Notestein,Northwestern University,25,49.0
+Emily Cheng,Northwestern University,25,49.0
+Caroline Werlang,MIT,25,50.0
+Daniel Kienle,University of Colorado Boulder,25,51.0
+Paria Coliaie,UNIVERSITY OF ILLINOIS AT CHICAGO,25,52.0
+Kindle Williams,Massachusetts Institute of Technology,25,53.0
+Caroline Nielsen,"Process Systems Engineering Laboratory, Massachusetts Institute of Technology",25,54.0
+Shiyan Wang,Purdue University,25,55.0
+Tania A. Baker,Massachusetts Institute of Technology,25,56.0
+Tristan A. Bell,Massachusetts Institute of Technology,25,56.0
+Matthew J. Lang,Vanderbilt University,25,56.0
+Robert T. Sauer,Massachusetts Institute of Technology,25,56.0
+Benjamin M. Stinson,Harvard Medical School,25,56.0
+Harris W. Manning,Vanderbilt University,25,56.0
+Lina Aboulmouna,Purdue University,25,57.0
+Santanu Bakhshi,Iowa state university,25,58.0
+Robert C. Brown,Iowa State University,25,58.0
+Marge Rover,Iowa State University,25,58.0
+Parinaz Hafezisefat,Iowa state university,25,58.0
+Richard Braatz,Massachusetts Institute of Technology,25,59.0
+Anastasia Nikolakopoulou,Massachusetts Institute of Technology,25,59.0
+Victor Baldovino-Medrano,Universidad Industrial de Santander,25,60.0
+Fernando Martínez-Ortega,Universidad Industrial de Santander,25,60.0
+Estefany Pajaro,Universidad industrial de santander,25,60.0
+Christopher J. Ellison,University of Minnesota,25,61.0
+Mahesh K. Mahanthappa,University of Minnesota,25,61.0
+Aditya Banerji,University of Minnesota,25,61.0
+Thomas R. Hanley,Auburn University,25,62.0
+Paul W. Todd,Magnaquant,25,62.0
+Abhinav Sannidhi,Auburn University,25,62.0
+Meenesh R. Singh,University of Illinois at Chicago,26,0.0
+Anish V. Dighe,University of Illinois at Chicago,26,0.0
+Jacinta C. Conrad,University of Houston,26,1.0
+Xi Geng,University of Houston,26,1.0
+Michael A. Reynolds,Shell Exploration and Production Company,26,1.0
+Jeffrey D. Rimer,University of Houston,26,1.0
+Ricardo D. Sosa,University of Houston,26,1.0
+Ashwin J. Shahani,"University of Michigan, Ann Arbor",26,2.0
+Saman Moniri,"University of Michigan, Ann Arbor",26,2.0
+Tobias Mazal,University of California Santa Barbara,26,3.0
+Janani Sampath,University of Florida,26,4.0
+Sergey Vasenkov,University of Florida,26,4.0
+Kirk J. Ziegler,University of Florida,26,4.0
+Andrew R. Garcia,University of Florida,26,4.0
+Wenqian Chen,Imperial College London,26,5.0
+Jerry Y. Y. Heng,Imperial College London,26,5.0
+Ian Rosbottom,Imperial College London,26,5.0
+Mingxia Guo,Imperial College London,26,5.0
+Moiz Diwan,AbbVie,27,0.0
+Andreas Gryczke,AbbVie Deutschland GmbH & Co. KG,27,0.0
+Samrat Mukherjee,AbbVie Inc.,27,0.0
+Eric Murphy,AbbVie Inc,27,0.0
+Kushal Sinha,AbbVie Inc.,27,0.0
+Alex Ruggles,AbbVie,27,0.0
+Daniel Perkins,Bristol-Myers Squibb,27,1.0
+Styliani Avraamidou,"Artie McFerrin Department of Chemical Engineering, Texas A&M University",27,2.0
+Cleo Kontoravdi,Imperial College London,27,2.0
+Pavlos Kotidis,Imperial College London,27,2.0
+Efstratios N. Pistikopoulos,Texas A&M University,27,2.0
+Iosif Pappas,Texas A&M University,27,2.0
+Maria M. Papathanasiou,Imperial College London,27,2.0
+Sudarshan Ganesh,Purdue University,27,3.0
+Zoltan K. Nagy,Purdue University,27,3.0
+Gintaras V. Reklaitis,Purdue University,27,3.0
+Rexonni Lagare,Purdue University,27,3.0
+Fernando Muzzio,Rutgers University,27,4.0
+Rohit Ramachandran,"Rutgers, The State University of New Jersey",27,4.0
+Ravendra Singh,Rutgers University,27,4.0
+Sean Bermingham,Process Systems Enterprise,27,5.0
+Christopher L. Burcham,Eli Lilly and Company,27,5.0
+Kerri Fischer,Eli Lilly and Company,27,5.0
+Dana Barrasso,Process Systems Enterprise (PSE) Inc.- A Siemens Business,27,5.0
+John A. Thomas,M-Star Simulations,28,0.0
+Piero M. Armenante,New Jersey Institute of Technology,28,1.0
+Chadakarn Sirasitthichoke,New Jersey Institute of Technology,28,1.0
+Carlos Avendano,University of Manchester,28,2.0
+Masoud Babaei,University of Manchester,28,2.0
+William Hicks,AstraZeneca,28,2.0
+Anna Parsons,AstraZeneca,28,2.0
+Arash Rabbani,University of Manchester,28,2.0
+Thomas Vetter,University of Manchester,28,2.0
+Giulio Perini,University of Manchester,28,2.0
+Marianthi Ierapetritou,University of Delaware,28,3.0
+Ou Yang,"Rutgers, The State University of New Jersey",28,3.0
+David Bell,MSD,28,4.0
+Ania Fryszkowska,"Merck & Co., Inc.",28,4.0
+Shane T. Grosser,"Merck & Co., Inc.",28,4.0
+Gregory Hughes,"Merck & Co., Inc.",28,4.0
+Eric Margelefsky,"Merck & Co., Inc.",28,4.0
+Keith A. Mattern,"Merck & Co., Inc.",28,4.0
+Maggie Miller,"Merck & Co., Inc.",28,4.0
+Sandra A. Robaire,"Merck & Co., Inc.",28,4.0
+Nicholas Rogus,"Merck & Co., Inc.",28,4.0
+Megan H. Shaw,"Merck & Co., Inc.",28,4.0
+Ilana E. Attadgie,"Merck & Co., Inc.",28,4.0
+M. Alexander Ardagh,University of Minnesota,29,0.0
+Paul Dauenhauer,University of Minnesota,29,0.0
+Kristeen Joseph,University of Minnesota,29,0.0
+Manish Shetty,University of Minnesota,29,0.0
+Ankita Naik,University of Minnesota,29,0.0
+Jason McMullan,Exxon Mobil Research & Engineering,29,1.0
+Shreyas Acharya,"Rutgers, The State University of New Jersey",29,2.0
+Aditya Khandare,"Rutgers, The State University of New Jersey",29,2.0
+Justin Marlowe,"Rutgers, The State University of New Jersey",29,2.0
+George Tsilomelekis,"Rutgers, The State University of New Jersey",29,2.0
+Adam Zuber,"Rutgers, The State University of New Jersey",29,2.0
+Sungwon Hwang,Inha University,29,3.0
+Dela Quarme Gbadago,Inha University,29,3.0
+Seunghyeok Cha,University of Houston,29,4.0
+Lars C. Grabow,University of Houston,29,4.0
+Jeffrey D. Rimer,University of Houston,29,4.0
+Taha Salavati-fard,University of Houston,29,4.0
+Deependra Parmar,University of Houston,29,4.0
+Pritpal Singh Dhillon,University of Houston,29,5.0
+Michael P. Harold,University of Houston,29,5.0
+Di Wang,Cummins Inc.,29,5.0
+Ghosh Rajat,University of Houston,29,5.0
+Fateme Rezaei,Missouri University of Science and Technology,29,6.0
+Ali Rownaghi,Missouri University of Science and Technology,29,6.0
+Abdo-Alslam Alwakwak,University of Missouri S&T,29,6.0
+Lisa Ma,DigiM Solution LLC,30,0.0
+Joshua Lomeo,DigiM Solution LLC,30,0.0
+Shawn Zhang,DigiM Solution LLC,30,0.0
+Selen Cremaschi,Auburn University,31,0.0
+Bianca Williams,Auburn University,31,0.0
+Antonios Armaou,The Pennsylvania State University,31,1.0
+Yao Xue,Pennsylvania State University,31,1.0
+M. M. Faruque Hasan,"Artie McFerrin Department of Chemical Engineering, Texas A&M University",31,2.0
+Akhil Arora,Texas A&M University,31,2.0
+Martin Peter Andersson,Technical University of Denmark,31,3.0
+Krist V. Gernaey,Technical University of Denmark,31,3.0
+Seyed Soheil Mansouri,Technical University of Denmark,31,3.0
+Nima Nazemzadeh,Technical University of Denmark,31,3.0
+Rasmus Fjordbak Nielsen,Technical University of Denmark,31,3.0
+Vasileios Charitopoulos,University College London,31,4.0
+E. Antonio del Rio Chanona,Imperial College London,31,4.0
+Federico Galvanin,University College London,31,4.0
+Panagiotis Petsagkourakis,University College of London,31,4.0
+Panagiotis D. Christofides,"University of California, Los Angeles",31,5.0
+David Rincon,"University of California, Los Angeles",31,5.0
+Zhe Wu,"University of California, Los Angeles",31,5.0
+Eric Bradford,NTNU,31,6.0
+Federico Galvanin,University College London,31,6.0
+Panagiotis Petsagkourakis,University College of London,31,6.0
+Ilya Orson Sandoval Cardenas,Imperial College London,31,6.0
+Dongda Zhang,University of Manchester,31,6.0
+E. Antonio del Rio Chanona,Imperial College London,31,6.0
+Naveed Bakh,Massachusetts Institute of Technology,32,0.0
+Michael A. Lee,Massachusetts Institute of Technology,32,0.0
+Punit Mehra,Massachusetts Institute of Technology,32,0.0
+Freddy T. Nguyen,Massachusetts Institute of Technology,32,0.0
+Michael Strano,Massachusetts Institute of Technology,32,0.0
+Manki Son,Massachusetts Institute of Technology,32,0.0
+Karen Allen,Boston University,32,1.0
+Andy Fan,Boston University,32,1.0
+James Galagan,Boston University,32,1.0
+Mark Grinstaff,Boston University,32,1.0
+Anant Gupta,Boston University,32,1.0
+Catherine M. Klapperich,Boston University,32,1.0
+Prerana Sensharma,Boston University,32,1.0
+Nicolas S. Shu,Boston University,32,1.0
+Margarita Tararina,Boston University,32,1.0
+Mingfu Chen,Boston University,32,1.0
+Uros Kuzmanovic,Boston University,32,1.0
+Harold G. Monbouquette,"University of California, Los Angeles",32,2.0
+Mackenzie Clay,"University of California, Los Angeles",32,2.0
+Paul Satoh,Michigan State University,32,3.0
+Robert M. Worden,Michigan State University,32,3.0
+Neda Rafat,Michigan State University,32,3.0
+Vinod S. Amar,South Dakota School of Mines and Technology,32,4.0
+Hope Dosch,South Dakota School of Mines and Technology,32,4.0
+Anuradha Shende,South Dakota School of Mines and Technology,32,4.0
+Rajesh Shende,South Dakota School of Mines and Technology,32,4.0
+Bharath Maddipudi,South Dakota School of Mines and Technology,32,4.0
+Baoxing Shen,Nanjing Normal University,32,5.0
+Surachet Duanghathaipornsuk,The University of Toledo,32,6.0
+Joerg Jinschek,The Ohio State University,32,6.0
+Dong-Shik Kim,The University of Toledo,32,6.0
+Cheng-Han Li,The Ohio State University,32,6.0
+Ana C. Alba-Rubio,The University of Toledo,32,6.0
+Alexa A. David,Colorado School of Mines,32,7.0
+J. Kirk Harris,University of Colorado Anschutz,32,7.0
+Megan Jewell,Colorado School of Mines,32,7.0
+Samuel C. Saccomano,Colorado School of Mines,32,7.0
+Edith Zemanick,Children's Hospital Colorado,32,7.0
+Kevin J. Cash,Colorado School of Mines,32,7.0
+Alexis T. Bell,"University of California, Berkeley",33,0.0
+Martin Head-Gordon,"University of California, Berkeley",33,0.0
+Hassan AlJama,University of California at Berkeley,33,0.0
+Kameel Abdel-Latif,North Carolina State University,33,1.0
+Milad Abolhasani,North Carolina State University,33,1.0
+Kristopher G. Reyes,University at Buffalo,33,1.0
+Amanda A. Volk,North Carolina State University,33,1.0
+Robert Epps,North Carolina State University,33,1.0
+Shrilakshmi Bonageri,University of Washington,33,2.0
+Maria Politi,University of Washington,33,2.0
+Lilo Pozzo,University of Washington,33,2.0
+Sage Scheiwiller,University of Washington,33,2.0
+Jaime Rodriguez Jr.,University of Washington,33,2.0
+Arul Jayaraman,Texas A&M University,33,3.0
+Joseph Sang-Il Kwon,Texas A&M University,33,3.0
+Dongheon Lee,Texas A&M University,33,3.0
+Elizabeth Nance,University of Washington,33,4.0
+Hawley Helmbrecht,University of Washington,33,4.0
+Ngoc Le,University of Minnesota,33,5.0
+Theresa M. Reineke,University of Minnesota,33,5.0
+Zhe Tan,University of Minnesota,33,5.0
+Ramya Kumar,University of Minnesota,33,5.0
+Po-Yen Chen,National University of Singapore,33,6.0
+Kaizhuo Lim,National University of Singapore,33,6.0
+Xiaoli Liu,National University of Singapore,33,6.0
+Chuanji Pan,National University of Singapore,33,6.0
+Xiaonan Wang,National University of Singapore,33,6.0
+Haitao Yang,National University of Singapore,33,6.0
+Jiali Li,National University of Singapore,33,6.0
+Geoffrey Wood,Pfizer,34,0.0
+Eric Dybeck,Pfizer Inc.,34,0.0
+Claire S. Adjiman,Imperial College London,34,1.0
+Amparo Galindo,Imperial College London,34,1.0
+George Jackson,Imperial College London,34,1.0
+Suela Jonuzaj,Imperial College London,34,1.0
+Oliver L. Watson,Imperial College London,34,1.0
+William H. Green,Massachusetts Institute of Technology,34,2.0
+Florence H. Vermeire,Massachusetts Institute of Technology,34,2.0
+Olexandr Isayev,Carnegie Mellon University,34,3.0
+Xiaohui Liu,Process Systems Enterprise (PSE) Inc.- A Siemens Business,34,4.0
+Meera Mahadevan,Process Systems Enterprise (PSE) Inc.- A Siemens Business,34,4.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,34,4.0
+Brandon Reizman,Eli Lilly and Company,34,4.0
+Sam Wilkinson,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,34,4.0
+Han Xia,Eli Lilly and Company,34,4.0
+Xiaohui Liu,Process Systems Enterprise (PSE) Inc.- A Siemens Business,34,5.0
+Meera Mahadevan,Process Systems Enterprise (PSE) Inc.- A Siemens Business,34,5.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,34,5.0
+Sam Wilkinson,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,34,5.0
+Brandon Reizman,Eli Lilly and Company,34,5.0
+Alpa Patel,CDER/FDA,35,0.0
+Koushik Sowrirajan,FDA/CDER,35,0.0
+Huiquan Wu,FDA/CDER,35,0.0
+Andrés D. Román-Ospino,"Rutgers, The State University of New Jersey",35,1.0
+Douglas Hausner,"C-SOPS, Rutgers University",35,1.0
+Fernando Muzzio,Rutgers University,35,1.0
+Rohit Ramachandran,"Rutgers, The State University of New Jersey",35,1.0
+Yukteshwar Baranwal,"Rutgers, The State University of New Jersey",35,1.0
+Sunidhi Bachawala,Purdue University,35,2.0
+Yasasvi Bommireddy,Purdue University,35,2.0
+Marcial Gonzalez,Purdue University,35,2.0
+Sergio Medina-González,Purdue University,35,2.0
+Zoltan K. Nagy,Purdue University,35,2.0
+Gintaras V. Reklaitis,Purdue University,35,2.0
+Yan-Shu Huang,Purdue University,35,2.0
+Maotang Zhou,FDA,35,3.0
+Martin Horn,Graz University of Technology,35,4.0
+Wen-Kai Hsiao,Research Center Pharmaceutical Engineering,35,4.0
+Johannes G. Khinast,Graz University of Technology,35,4.0
+Stephan Sacher,Research Center Pharmaceutical Engineering,35,4.0
+Jakob Rehrl,Research Center Pharmaceutical Engineering,35,4.0
+Massimiliano Barolo,University of Padova,35,5.0
+Fabrizio Bezzo,University of Padova,35,5.0
+Pierantonio Facco,University of Padova,35,5.0
+Salvador García-Muñoz,Eli Lilly and Company,35,5.0
+Francesco Destro,University of Padova,35,5.0
+Joshua Lee,"Merck & Co., Inc.",36,0.0
+Jonathan McMullen,"Merck & Co., Inc.",36,0.0
+Anne Mohan,"Merck & Co., Inc.",36,0.0
+Eric Sirota,"Merck & Co., Inc.",36,0.0
+Karthik Narsimhan,"Merck & Co., Inc.",36,0.0
+Andreas S. Bommarius,Georgia Institute of Technology,36,1.0
+Martha A. Grover,Georgia Institute of Technology,36,1.0
+Patrick R. Harris,Georgia Institute of Technology,36,1.0
+Colton Lagerman,Georgia Institute of Technology,36,1.0
+Matthew A. McDonald,Georgia Institute of Technology,36,1.0
+Ronald W. Rousseau,Georgia Institute of Technology,36,1.0
+Hossein Salami,Georgia Institute of Technology,36,1.0
+Michaël Fenster,Bristol Myers Squibb,36,2.0
+Kenneth Fraunhoffer,Bristol Myers Squibb,36,2.0
+Matthew Hickey,Bristol Myers Squibb,36,2.0
+Nathaniel D. Kopp,Bristol Myers Squibb,36,2.0
+Jose E. Tabora,Bristol Myers Squibb,36,2.0
+Jia Zang,Bristol Myers Squibb,36,2.0
+Patrick Sipple,Bristol Myers Squibb,36,2.0
+Mesfin Abdi,Food and Drug Administration,36,3.0
+Massimiliano Barolo,University of Padova,36,3.0
+Daniel M. Casas-Orozco,Purdue University,36,3.0
+Xin Feng,Food and Drug Administration,36,3.0
+Inyoung Hur,Purdue University,36,3.0
+Su-Lin Lee,Food and Drug Administration,36,3.0
+Zoltan K. Nagy,Purdue University,36,3.0
+Erin Wood,Food and Drug Administration,36,3.0
+Francesco Destro,University of Padova,36,3.0
+Cameron Brown,Strathclyde Institute of Pharmacy and Biomedical Sciences,36,4.0
+Ekaterina Gramadnikova,Strathclyde Institute of Pharmacy and Biomedical Sciences,36,4.0
+Chris Price,University of Strathclyde,36,4.0
+Jan Sefcik,University of Strathclyde,36,4.0
+Sara Ottoboni,University of Strathclyde,36,4.0
+Daniel O. Blackwood,Pfizer Worldwide Research and Development,37,0.0
+Jenna Brandon,"Worldwide Research and Development, Pfizer Inc.",37,0.0
+Pankaj Doshi,Pfizer Inc.,37,0.0
+Ashwinkumar Jain,"Worldwide Research and Development, Pfizer Inc.",37,0.0
+Dalibor Jajcevic,RCPE GmbH,37,0.0
+Johannes G. Khinast,Research Center Pharmaceutical Engineering,37,0.0
+James Kimber,"Worldwide Research and Development, Pfizer Inc.",37,0.0
+Kai Lee,Pfizer Inc.,37,0.0
+Eva Siegmann,Research Center Pharmaceutical Engineering,37,0.0
+David Wilsdon,"Worldwide Research and Development, Pfizer Inc.",37,0.0
+Peter Toson,Research Center Pharmaceutical Engineering,37,0.0
+Steven Ferguson,University College Dublin,37,1.0
+Matthew Harding,University College Dublin,37,1.0
+Anne-Marie Healy,Trinity College Dublin,37,1.0
+Michael Stocker,University College Dublin,37,1.0
+Hannes Bauer,Research Center Pharmaceutical Engineering GmbH,37,2.0
+Johannes G. Khinast,Graz University of Technology,37,2.0
+Amrit Paudel,European Consortium for Continuous Pharmaceutical Manufacturing (ECCPM),37,2.0
+Josip Matić,Research Center Pharmaceutical Engineering GmbH,37,2.0
+Anastasia Artamonova,Massachusetts Institute of Technology,37,3.0
+Paul W. Barone,Massachusetts Institute of Technology,37,3.0
+Dragana Bozinovski,Massachusetts Institute of Technology,37,3.0
+Richard Braatz,Massachusetts Institute of Technology,37,3.0
+Elizabeth M. Cummings Bende,Massachusetts Institute of Technology,37,3.0
+Amos E. Lu,Massachusetts Institute of Technology,37,3.0
+Andrew J. Maloney,Massachusetts Institute of Technology,37,3.0
+Jose Sangerman,Massachusetts Institute of Technology,37,3.0
+Anthony J Sinskey,Massachusetts Institute of Technology,37,3.0
+Stacy Springs,Massachusetts Institute of Technology,37,3.0
+Rui Wen Ou,Massachusetts Institute of Technology,37,3.0
+Jacqueline Wolfrum,Massachusetts Institute of Technology,37,3.0
+Moo Sun Hong,Massachusetts Institute of Technology,37,3.0
+Tanja Gerlza,University of Graz,37,4.0
+Sonja Hartl,University of Graz,37,4.0
+Johannes G. Khinast,Graz University of Technology,37,4.0
+Andreas Kungl,University of Graz,37,4.0
+Eva Roblegg,University of Graz,37,4.0
+Christina Trojacher,University of Graz,37,4.0
+Daniela Fiedler,Graz University of Technology,37,4.0
+Haruka Futamura,"Airex Co., Ltd.",37,5.0
+Koji Kawasaki,"Airex Co., Ltd.",37,5.0
+Keisho Yabuta,The University of Tokyo,37,5.0
+Hirokazu Sugiyama,The University of Tokyo,37,5.0
+Katherine Raudenbush,"Merck & Co., Inc.",38,0.0
+Matthew H. Flamm,"Merck & Co., Inc.",38,0.0
+Smeet Deshmukh,"Merck & Co., Inc.",38,1.0
+Julia Eckhoff,MSD,38,1.0
+Matthew H. Flamm,"Merck & Co., Inc.",38,1.0
+Zbynek Kalal,MSD,38,1.0
+Sachin Mittal,"Merck & Co., Inc.",38,1.0
+Adam Procopio,"Merck & Co., Inc.",38,1.0
+Robert Kuo,"Merck & Co., Inc.",38,1.0
+Richard Shields,Eli Lilly and Company,38,2.0
+Aaron Sarafinas,Sarafinas Process & Mixing Consulting LLC,38,3.0
+David S. Dickey,MIXTECH,38,4.0
+Shawn Brueggemeier,Bristol Myers Squibb,38,5.0
+Ronald Carrasquillo-Flores,Bristol Myers Squibb,38,5.0
+Federico Lora Gonzalez,Bristol Myers Squibb,38,5.0
+Zhongping Shi,Bristol Myers Squibb,38,5.0
+Kira Ragazzo,Bristol Myers Squibb,38,5.0
+Elsa Gonçalves,"Hovione Farmaciencia, S.A.",38,6.0
+Ricardo Mendonça,"Hovione Farmaciencia, S.A.",38,6.0
+Ana Monteiro,"Hovione Farmaciencia, S.A.",38,6.0
+Susana Nascimento,"Hovione Farmaciencia, S.A.",38,6.0
+João Sardinha,"Hovione Farmaciencia, S.A.",38,6.0
+Filipe Ataíde,"Hovione Farmaciencia, S.A.",38,6.0
+Diwakar Shukla,University of Illinois at Urbana-Champaign,39,0.0
+Klavs F. Jensen,Massachusetts Institute of Technology,39,1.0
+Hanyu Gao,Massachusetts Institute of Technology,39,1.0
+Jamie B. Spangler,Johns Hopkins University,39,2.0
+Shang-Tian Yang,The Ohio State University,39,3.0
+Fengli Zhang,Ohio State University,39,3.0
+Shozeb Haider,University College London,39,4.0
+Yanhong Liu,USDA-ARS,39,4.0
+Tianhua Zhai,Villanova University,39,4.0
+Fangyuan Zhang,Villanova university,39,4.0
+Zuyi (Jacky) Huang,Villanova University,39,4.0
+Steven Ferguson,University College Dublin,39,5.0
+Brian Glennon,University College Dublin,39,5.0
+Catalina Parga,University College Dublin,39,5.0
+Jan Gröls,University of Bath,39,6.0
+Alastair J. Florence,University of Strathclyde,40,0.0
+Ian Houson,University of Strathclyde,40,0.0
+Charles D. Papageorgiou,Takeda Pharmaceuticals International Co.,40,0.0
+Justin L. Quon,Takeda Pharmaceuticals International Co.,40,0.0
+Humera Siddique,University of Strathclyde,40,0.0
+Yihui Yang,Takeda Pharmaceuticals International Co.,40,0.0
+Bilal Ahmed,University of Strathclyde,40,0.0
+Zoltan K. Nagy,Purdue University,40,1.0
+Charles D. Papageorgiou,Takeda Pharmaceuticals International Co.,40,1.0
+Justin L. Quon,Takeda Pharmaceuticals International Co.,40,1.0
+Botond Szilagyi,Purdue University,40,1.0
+Ayse Eren,Purdue University,40,1.0
+Wenqian Chen,Imperial College London,40,2.0
+Jerry Y. Y. Heng,Imperial College London,40,2.0
+Frederik J. Link,Imperial College London,40,2.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,40,2.0
+Ian Rosbottom,Imperial College London,40,2.0
+Timothy Grieme,Abbvie,40,3.0
+Manish S. Kelkar,Abbvie Inc.,40,3.0
+James C. Marek,"AbbVie, Inc.",40,3.0
+Collin Morris,Abbvie,40,3.0
+Nandkishor K. Nere,AbbVie Inc.,40,3.0
+Moussa Boukerche,AbbVie Inc.,40,3.0
+Lea Heraud,Sanofi,40,4.0
+Guillermo Jimeno,Process Systems Enterprise Ltd - A Siemens Business,40,4.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,40,4.0
+Clemence Valla,Sanofi,40,4.0
+Olivier Monnier,Sanofi,40,4.0
+Santanu Chaudhuri,"University of Illinois, Chicago",40,5.0
+Meenesh R. Singh,University of Illinois at Chicago,40,5.0
+Rajan Bhawnani,University of Illinois at Chicago,40,5.0
+Jochen Schoell,MSD Werthenstein BioPharma,40,6.0
+Roberto Irizarry,"Merck & Co., Inc.",40,6.0
+Marco Mazzotti,ETH Zurich,40,7.0
+Brigitta Bodák,ETH Zurich,40,7.0
+John MacGregor,ProSensus Inc.,41,0.0
+Prashant Mhaskar,McMaster University,41,0.0
+Debanjan Ghosh,McMaster University,41,0.0
+Fani Boukouvala,Georgia Institute of Technology,41,1.0
+William Bradley,Georgia Institute of Technology,41,1.0
+Alexander W. Dowling,University of Notre Dame,41,2.0
+Xian Gao,University of Notre Dame,41,2.0
+Elvis Eugene,University of Notre Dame,41,2.0
+Debangsu Bhattacharyya,West Virginia University,41,3.0
+Angan Mukherjee,West Virginia University,41,3.0
+Anuja Deshpande,National Energy Technology Laboratory,41,4.0
+Michael S. Matuszewski,National Energy Technology Laboratory,41,4.0
+David C. Miller,National Energy Technology Laboratory,41,4.0
+Benjamin P. Omell,National Energy Technology Laboratory,41,4.0
+Miguel A. Zamarripa,National Energy Technology Laboratory,41,4.0
+Bernard De Baets,Ghent University,41,5.0
+David Fernandes del Pozo,Ghent University,41,5.0
+Ingmar Nopens,Ghent University,41,5.0
+Elena Torfs,Ghent University,41,5.0
+Ward Quaghebeur,Ghent University,41,5.0
+Nick Sahinidis,Carnegie Mellon University,41,6.0
+Marissa Engle,Carnegie Mellon University,41,6.0
+Dilara Goreke,University of Wisconsin-Madison,41,7.0
+Victor M. Zavala,University of Wisconsin-Madison,41,7.0
+Apoorva Sampat,University of Wisconsin-Madison,41,7.0
+Claire S. Adjiman,Imperial College London,42,0.0
+Amparo Galindo,Imperial College London,42,0.0
+George Jackson,Imperial College London,42,0.0
+Sara Ottoboni,University of Strathclyde,42,0.0
+Chris Price,University of Strathclyde,42,0.0
+Jan Sefcik,University of Strathclyde,42,0.0
+Oliver L. Watson,Imperial College London,42,0.0
+Suela Jonuzaj,Imperial College London,42,0.0
+Bárbara B. Alvarado-Hernández,University of Puerto Rico at Mayaguez,42,1.0
+Pedro A. Martínez-Cartagena,University of Puerto Rico at Mayaguez,42,1.0
+Rafael Mendez,University of Puerto Rico at Mayaguez,42,1.0
+Rodolfo Romañach,University of Puerto Rico at Mayaguez,42,1.0
+Nobel O. Sierra-Vega,Graduate Student,42,1.0
+Yi-Xin Guan,Zhejiang University,42,2.0
+Hu-Hong Peng,Zhejiang University,42,2.0
+Shan-Jing Yao,Zhejiang University,42,2.0
+Zi-Dan Wang,Zhejiang University,42,2.0
+Seulhee Kim,University of Alabama Birmingham,42,3.0
+Xiaoguang Liu,The University of Alabama at Birmingham,42,3.0
+Lufang Zhou,University of Alabama Birmingham,42,3.0
+Yingnan Si,University of Alabama Birmingham,42,3.0
+Shawn Zhang,DigiM Solution LLC,42,4.0
+Liping Zhou,DigiM Solution LLC,42,4.0
+Joshua Lomeo,DigiM Solution LLC,42,4.0
+Tomohiro Miura,The University of Tokyo,42,5.0
+Hirokazu Sugiyama,The University of Tokyo,42,5.0
+Shuichi Tanabe,"Daiichi Sankyo Co., Ltd.",42,5.0
+Keita Yaginuma,"Daiichi Sankyo Co., Ltd.",42,5.0
+Kensaku Matsunami,The University of Tokyo,42,5.0
+Sumit Kumar,Purdue University,43,0.0
+Pablo García-Losada,Eli Lilly and Company,43,1.0
+Klavs F. Jensen,Massachusetts Institute of Technology,43,1.0
+Martin Johnson,Eli Lilly and Company,43,1.0
+Carlos Mateos,Eli Lilly and Company,43,1.0
+Yiming Mo,Massachusetts Institute of Technology,43,1.0
+Maria Jose Nieves-Remacha,Eli Lilly and Company,43,1.0
+Brandon Reizman,Eli Lilly and Company,43,1.0
+Juan Antonio Rincón,Eli Lilly and Company,43,1.0
+Kakasaheb Y. Nandiwale,Massachusetts Institute of Technology,43,1.0
+Erwin Irdam,Biogen,43,2.0
+Daniel Patience,Biogen,43,2.0
+Fernando Muzzio,Rutgers University,43,3.0
+Ravendra Singh,Rutgers University,43,3.0
+Eric Jayjock,Patheon,43,4.0
+Keirnan LaMarche,Thermo Fisher Scientific,43,4.0
+Aaron Ptak,National Renewable Energy Laboratory,44,0.0
+Kevin L. Schulte,National Renewable Energy Laboratory,44,0.0
+John Simon,National Renewable Energy Laboratory,44,0.0
+Hariswaran Sitaraman,National Renewable Energy Laboratory,44,0.0
+Heather Splawn,Kyma Technologies,44,0.0
+Kevin Udwary,Kyma Technologies,44,0.0
+Malik Hassanaly,National Renewable Energy Laboratory,44,0.0
+Tapas K. Das,Saint Martin's University,44,1.0
+Sanjit Ghose,Brookhaven National Laboratory,44,2.0
+Christopher Gump,Forge Nano Inc.,44,2.0
+Rishi Raj,University of Colorado Boulder,44,2.0
+Alan W. Weimer,University of Colorado Boulder,44,2.0
+Bola Yoon,University of Colorado Boulder,44,2.0
+Rebecca O'Toole,University of Colorado Boulder,44,2.0
+Matthew Coblyn,Oregon State University,44,3.0
+Goran Jovanovic,Oregon State University,44,3.0
+Jad Touma,Oregon State University,44,3.0
+Lucas Freiberg,Oregon State University,44,3.0
+Mesfin Abdi,Food and Drug Administration,44,4.0
+Xin Feng,Food and Drug Administration,44,4.0
+Su-Lin Lee,Food and Drug Administration,44,4.0
+Ahmed Mufti,Purdue University,44,4.0
+Zoltan K. Nagy,Purdue University,44,4.0
+David H. Thompson,Purdue University,44,4.0
+Erin Wood,Food and Drug Administration,44,4.0
+Jaron Mackey,Purdue University,44,4.0
+Harald Gröger,Bielefeld University,44,5.0
+Volker Hessel,The University of Adelaide,44,5.0
+Can Jin,Zhejiang University of Technology,44,5.0
+Job Nijhuis,Eindhoven University of Technology,44,5.0
+Timothy Noël,Eindhoven University of Technology,44,5.0
+Zhen Song,Max Planck Institute for Dynamics of Complex Technical Systems,44,5.0
+Kai Sundmacher,Max Planck Institute for Dynamics of Complex Technical Systems,44,5.0
+Jan van Hest,Eindhoven University of Technology,44,5.0
+Teng Zhou,Max Planck Institute for Dynamics of Complex Technical Systems,44,5.0
+Chenyue Zhang,Eindhoven University of Technolog,44,5.0
+Ɖana Crvenjak,Research Center Pharmaceutical Engineering GmbH,45,0.0
+Agnes Fuchsbichler,"Institute of Pharmaceutical Sciences, Department of Pharmaceutical Technology and Biopharmacy, University of Graz",45,0.0
+Dirk Lochmann,IOI Oleo,45,0.0
+Sebastian Reyer,IOI Oleo,45,0.0
+Sharareh Salar-Behzadi,Research Center Pharmaceutical Engineering GmbH,45,0.0
+Andreas Zimmer,"Institute of Pharmaceutical Sciences, Department of Pharmaceutical Technology and Biopharmacy, University of Graz",45,0.0
+Carolina Corzo,"Institute of Pharmaceutical Sciences, Department of Pharmaceutical Technology and Biopharmacy, University of Graz",45,0.0
+Michael Baumann,DuPont N&B,45,1.0
+Tom Breshamer,CapsCanada,45,1.0
+Amie Gehris,DuPont N&B,45,1.0
+Bahi Mahesan,CapsCanada,45,1.0
+Laura McReady,DuPont N&B,45,1.0
+Elizabeth Tocce,DuPont N&B,45,1.0
+Thomas Watson,DuPont N&B,45,1.0
+Paul Zajac,DuPont N&B,45,1.0
+Yeli Zhang,DuPont N&B,45,1.0
+Jin Zhao,DuPont N&B,45,1.0
+Karen M. Balwinski,The Dow Chemical Company,45,2.0
+Karen Coppens,Dupont,45,2.0
+Stacey L. Dean,The Dow Chemical Company,45,2.0
+J. Keith Harris,The Dow Chemical Company,45,2.0
+Debora L. Holbrook,The Dow Chemical Company,45,2.0
+Mladen Ladika,The Dow Chemical Company,45,2.0
+Hui Shao,Corteva,45,2.0
+Paul J. Sheskey,The Dow Chemical Company,45,2.0
+Thomas H. Kalantar,The Dow Chemical Company,45,2.0
+Carolina Corzo,"Institute of Pharmaceutical Sciences, Department of Pharmaceutical Technology and Biopharmacy, University of Graz",45,3.0
+Dirk Lochmann,IOI Oleo,45,3.0
+Sebastian Reyer,IOI Oleo,45,3.0
+Andreas Zimmer,"Institute of Pharmaceutical Sciences, Department of Pharmaceutical Technology and Biopharmacy, University of Graz",45,3.0
+Sharareh Salar-Behzadi,Research Center Pharmaceutical Engineering GmbH,45,3.0
+Laura Andrade Benítez,Laboratorios Liconsa S.A.,45,4.0
+Stefano Biserni,MG2 Srl,45,4.0
+Francesca Buttini,Dipartimento di Scienze degli Alimenti e del Farmaco,45,4.0
+Laura Canalejas,Qualicaps,45,4.0
+Veronica Chierici,Dipartimento di Scienze degli Alimenti e del Farmaco,45,4.0
+Verónica Daza Fernández,Laboratorios Liconsa S.A.,45,4.0
+Susana Ecenarro Probst,Qualicaps,45,4.0
+Mirjam Kobler,Head of R&D,45,4.0
+Alberto Mercandelli,MG2 Srl,45,4.0
+Amrit Paudel,European Consortium for Continuous Pharmaceutical Manufacturing (ECCPM),45,4.0
+Thomas Wutscher,Research Center Pharmaceutical Engineering GmbH,45,4.0
+Sarah Zellnitz,Research Center Pharmaceutical Engineering GmbH,45,4.0
+Milica Stanković-Brandl,RCPE,45,4.0
+Hui Du,"WuXi STA, A WuXi AppTec Company",45,5.0
+Jie Feng,"University of Illinois, Urbana-Champaign",45,5.0
+Kai Gong,Princeton University,45,5.0
+Fengjiao He,"WuXi STA, A WuXi AppTec Company",45,5.0
+Shuhong Jiang,"WuXi STA, A WuXi AppTec Company",45,5.0
+Huizhuan Lin,"WuXi STA, A WuXi AppTec Company",45,5.0
+Chester E. Markwalter,Princeton University,45,5.0
+Simon A. McManus,Princeton University,45,5.0
+Santipharp Panmai,"WuXi STA, A WuXi AppTec Company",45,5.0
+Robert K. Prud’homme,Princeton University,45,5.0
+Hanu Ramachandruni,Medicines for Malaria Venture (MMV),45,5.0
+Aditya Rawal,The University of New South Wales,45,5.0
+Kurt D. Ristroph,Princeton University,45,5.0
+Chang Tian,Princeton University,45,5.0
+Leon Z. Wang,Princeton University,45,5.0
+Claire White,Princeton University,45,5.0
+Jiankai Yang,"WuXi STA, A WuXi AppTec Company",45,5.0
+Yingyue Zhang,Princeton University,45,5.0
+Madeleine Armstrong,Princeton University,45,5.0
+Syed Ahsan,National Renewable Energy Laboratory,46,0.0
+Bodhisattwa Chaudhuri,UConn,46,0.0
+Yijie Gao,Takeda Pharmaceuticals International Co.,46,0.0
+Hossain Aziz,University of Connecticut,46,0.0
+Theodore J. Heindel,Iowa State University,46,1.0
+Nandkishor K. Nere,AbbVie Inc.,46,1.0
+Kushal Sinha,AbbVie Inc.,46,1.0
+Shankar Subramaniam,Iowa State University,46,1.0
+Viraj Vilas Belekar,Iowa State University,46,1.0
+Johannes G. Khinast,Graz University of Technology,46,2.0
+Josip Matić,Research Center Pharmaceutical Engineering GmbH,46,2.0
+Hannes Bauer,Research Center Pharmaceutical Engineering GmbH,46,2.0
+Thomas De Beer,Ghent University,46,3.0
+Ingmar Nopens,Ghent University,46,3.0
+Michiel Peeters,Ghent University,46,3.0
+Daan Van Hauwermeiren,Ghent University,46,3.0
+Ana Alejandra Barrera Jiménez,"U Ghent, Belgium",46,3.0
+Andreas Altmeyer,L.B. Bohle,46,4.0
+Ismail Anifowoshe,Pfizer Inc.,46,4.0
+Sandra Conway,Pfizer Inc.,46,4.0
+Pankaj Doshi,Pfizer Inc.,46,4.0
+Naomi Hodgins,Pfizer Inc.,46,4.0
+Reza Kamyar,Pfizer Inc.,46,4.0
+Gopal Kasat,Tridiagonal Solutions Inc.,46,4.0
+Peiyuan Liu,Pfizer Inc.,46,4.0
+Bruce C. MacDonald,Pfizer Inc.,46,4.0
+Mothivel Mummudi,Tridiagonal Solutions Inc.,46,4.0
+Parth Sinha,Tridiagonal Solutions Inc.,46,4.0
+Zilong Wang,Pfizer Inc.,46,4.0
+Alfred Berchielli,Pfizer Inc.,46,4.0
+Joao Moreira,Process Systems Enterprise,46,5.0
+Pavol Rajniak,Process Systems Enterprise,46,5.0
+Lindsay Wegiel,Eli Lilly and Company,46,5.0
+Maitraye Sen,Eli Lilly and Company,46,5.0
+Omid Arjmandi-Tash,The University of Sheffield,47,0.0
+Victoria R. Kitching,The University of Sheffield,47,0.0
+James D. Litster,University of Sheffield,47,0.0
+Kate Pitt,The University of Sheffield,47,0.0
+Rachel M. Smith,The University of Sheffield,47,0.0
+Jonathan D. Tew,The University of Sheffield,47,0.0
+Bilal Ahmed,The University of Sheffield,47,0.0
+Ali Hassanpour,University of Leeds,47,1.0
+Sven Schroeder,University of Leeds,47,1.0
+Svetlana Bibiceva,University of Leeds,47,1.0
+Ilgaz Akseli,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",47,2.0
+Venkata Bobba,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",47,2.0
+Jaya Malladi,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",47,2.0
+Hossein Amini,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",47,2.0
+Vatallio Abrams,Prairie View A&M University,47,3.0
+Michael Aliado,Prairie View A&M University,47,3.0
+Tyree Madison,Prairie View A&M University,47,3.0
+Mahmoud Soliman,Prairie View A&M University,47,3.0
+Sheena Reeves,Prairie View A&M University,47,3.0
+Joseph W. Bullard,Vertex Pharmaceuticals,47,4.0
+Mark Costello,Vertex Pharmaceuticals Incorporated,47,4.0
+Steven Dale,Vertex Pharmaceuticals,47,4.0
+Peter Ojakovo,Vertex Pharmaceuticals Incorporated,47,4.0
+Shankali Pradhan,Vertex Pharmaceuticals Incorporated,47,4.0
+Stefan Bellinghausen,University of Sheffield,47,5.0
+Solomon F. Brown,The University of Sheffield,47,5.0
+James D. Litster,University of Sheffield,47,5.0
+Robert A. Milton,The University of Sheffield,47,5.0
+Aaron S. Yeardley,The University of Sheffield,47,5.0
+Jerome Castro,Lubrizol Life Science,47,6.0
+James D. Litster,University of Sheffield,47,6.0
+Jane Mathews,Lubrizol Life Science,47,6.0
+Agba D. Salman,University of Sheffield,47,6.0
+Mingzhe Yu,The University of Sheffield,47,6.0
+Jesse Capecelatro,University of  Michigan,48,0.0
+Yuan Yao,"University of Michigan, Ann Arbor",48,0.0
+Jennifer S. Curtis,UC Davis,48,1.0
+Rose McCallen,Lawrence Livermore National Laboratory,48,1.0
+Kambiz Salari,Lawrence Livermore National Laboratory,48,1.0
+Jiecheng Yang,UC Davis,48,1.0
+Chanh Nguyen,UC Davis,48,1.0
+Kerry Johanson,"Material Flow Solutions, Inc.",48,2.0
+Kevin J. Hanley,University of Edinburgh,48,3.0
+Rosario Capozza,University of Edinburgh,48,3.0
+Lewis Scott,The University of Leeds,48,4.0
+Priscilla J. Hill,Mississippi State University,48,5.0
+Feiyang Chen,Clemson University,48,6.0
+Yuan Guo,Clemson University,48,6.0
+Jordan Klinger,Idaho National Laboratory,48,6.0
+Yidong Xia,Idaho National Laboratory,48,6.0
+Qiushi Chen,Clemson University,48,6.0
+Ecevit Bilgili,New Jersey Institute of Technology,48,7.0
+Rajesh Davé,New Jersey Institute of Technology,48,7.0
+Nontawat Muanpaopong,New Jersey Institute of Technology,48,7.0
+Andreas S. Bommarius,Georgia Institute of Technology,49,0.0
+Martha A. Grover,Georgia Institute of Technology,49,0.0
+Patrick R. Harris,Georgia Institute of Technology,49,0.0
+Ronald W. Rousseau,Georgia Institute of Technology,49,0.0
+Hossein Salami,Georgia Institute of Technology,49,0.0
+Matthew A. McDonald,Georgia Institute of Technology,49,0.0
+Jie Chen,AbbVie Inc.,49,1.0
+Manish S. Kelkar,Abbvie Inc.,49,1.0
+Kirsten Springer,AbbVie,49,1.0
+Chris Chappelow,"Corteva Agriscience, a division of DowDupont",49,2.0
+Paul A. Larsen,"Corteva Agriscience, a division of DowDupont",49,2.0
+Zoltan K. Nagy,Purdue University,49,2.0
+Jasson T Patton,"Corteva Agriscience, a division of DowDupont",49,2.0
+Wei-Lee Wu,Purdue University,49,2.0
+Manish S. Kelkar,Abbvie Inc.,49,3.0
+Nandkishor K. Nere,AbbVie Inc.,49,3.0
+Meenesh R. Singh,University of Illinois at Chicago,49,3.0
+Paria Coliaie,UNIVERSITY OF ILLINOIS AT CHICAGO,49,3.0
+Charles A Goss,GSK,49,4.0
+Anthony J. Nockett,GSK,49,4.0
+Daniel A Green,GlaxoSmithKline,49,4.0
+Akshaya Nataraj,Merck,49,5.0
+Jochen Schoell,MSD Werthenstein BioPharma,49,5.0
+Roberto Irizarry,"Merck & Co., Inc.",49,5.0
+Michael Taussig,ADM,49,6.0
+Iman Beheshti Tabar,Archer Daniels Midland (ADM),49,6.0
+Daniel Castro-Rodriguez,GSK,50,0.0
+Deniz Koç,University of Edinburgh,50,0.0
+Dimitrios I. Gerogiorgis,University of Edinburgh,50,0.0
+Lorenz T. Biegler,Carnegie Mellon University,50,1.0
+Weifeng Chen,Zhejiang University of Technology,50,1.0
+Salvador García-Muñoz,Eli Lilly and Company,50,1.0
+Kuan-Han Lin,Carnegie Mellon University,50,1.0
+Michael Short,University of Surrey,50,1.0
+David Thierry,Carnegie Mellon University,50,1.0
+Kevin McBride,Carnegie Mellon University,50,1.0
+Teresa Marta,Hovione Farmaciencia SA,50,2.0
+Pedro Monteiro,Hovione Farmaciencia SA,50,2.0
+Ilgaz Akseli,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",50,3.0
+Hossein Amini,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",50,3.0
+Venkata Bobba,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",50,3.0
+Jaya Malladi,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",50,3.0
+Hannah Palahnuk,The College of New Jersey,50,3.0
+Stephen Thomas,"Bristol Myers Squibb, 556 Morris ave, Summit NJ 07901, USA",50,3.0
+Salvador García-Muñoz,Eli Lilly and Company,50,4.0
+Simon Kuhn,KU Leuven,51,0.0
+M. Enis Leblebici,KU Leuven,51,0.0
+Tom Van Gerven,KU Leuven,51,0.0
+Glen Meir,KU Leuven,51,0.0
+Mumin E. Leblebici,KU Leuven,51,1.0
+Tom Van Gerven,KU Leuven,51,1.0
+Thomas Claes,KU Leuven,51,1.0
+Jingnan Zhao,Dalian University of Technology,51,2.0
+Qingwei Meng,Dalian University of Technology,51,2.0
+Christopher P. Breen,Massachusetts Institute of Technology,52,0.0
+Federico Florit,Massachusetts Institute of Technology,52,0.0
+Travis Hart,Massachusetts Institute of Technology,52,0.0
+Timothy Jamison,Massachusetts Institute of Technology,52,0.0
+Klavs F. Jensen,Massachusetts Institute of Technology,52,0.0
+Tim Kulesza,Massachusetts Institute of Technology,52,0.0
+Timothy M. Monos,Massachusetts Institute of Technology,52,0.0
+Anirudh M.K. Nambiar,Massachusetts Institute of Technology,52,0.0
+Andreas S. Bommarius,Georgia Institute of Technology,52,1.0
+Bettina Bommarius,Georgia Institute of Technology,52,1.0
+Adam A. Caparco,Georgia Institute of Technology,52,1.0
+Julie A. Champion,Georgia Institute of Technology,52,1.0
+Joshua A. Whitley,Georgia Institute of Technology,52,1.0
+Robert D. Franklin,Georgia Institute of Technology,52,1.0
+Fernando V. Lima,West Virginia University,53,0.0
+Marcelo P. A. Ribeiro,Federal University of São Carlos,53,0.0
+Guilhermina Schultz,Federal University of São Carlos,53,0.0
+Ronald Alexander,West Virginia University,53,0.0
+M. Nazmul Karim,Texas A&M University,53,1.0
+Costas Kravaris,Texas A&M University,53,1.0
+Hazem Nounou,Texas A&M University at Qatar,53,1.0
+Mohamed Nounou,Texas A&M University at Qatar,53,1.0
+M. Ziyan Sheriff,Texas A&M University,53,1.0
+Debangsu Bhattacharyya,West Virginia University,53,2.0
+Xingbo Liu,West Virginia University,53,2.0
+Chandra Sekhar Somayajula,West Virginia University,53,2.0
+Donald Adams,University of North Dakota,53,3.0
+Nicholas Bosshart,University of North Dakota,53,3.0
+John A. Hamling,University of North Dakota,53,3.0
+Lu Jin,University of North Dakota,53,3.0
+Wesley D. Peck,University of North Dakota,53,3.0
+Cesar Barajas-Olalde,University of North Dakota,53,3.0
+Luke Rogers,On Demand Pharmaceuticals,54,0.0
+William Grieco,RAPID,54,1.0
+Brendon G. Ricart,AbbVie Inc.,54,2.0
+Ida(Xue) Chen,Dow Chemical Company,54,3.0
+Jaquan Levons,BMS,54,4.0
+Gregory Frank,Amgen Inc.,54,5.0
+Shane T. Grosser,"Merck & Co., Inc.",55,0.0
+Christopher Nunn,GSK,55,1.0
+Benoit Cardinal-David,AbbVie,55,2.0
+Moiz Diwan,AbbVie,55,2.0
+Eric G. Moschetta,AbbVie,55,2.0
+Isabella Aigner,Research Center Pharmaceutical Engineering,55,3.0
+Johannes G. Khinast,Graz University of Technology,55,3.0
+Markus Krumme,Novartis Pharma AG,55,3.0
+Thomas Mannschott,Novartis Pharma AG,55,3.0
+Hartmuth Schröttner,Graz University of Technology,55,3.0
+Peter van der Wel,Hosokawa Micron B.V.,55,3.0
+Manuel Zettl,Research Center Pharmaceutical Engineering,55,3.0
+Claire S. Adjiman,Imperial College London,55,4.0
+Amparo Galindo,Imperial College London,55,4.0
+Andrew J. Haslam,Imperial College London,55,4.0
+George Jackson,Imperial College London,55,4.0
+Malak Wehbe,Imperial College London,55,4.0
+Salvador García-Muñoz,Eli Lilly and Company,56,0.0
+Ignacio E. Grossmann,Carnegie Mellon University,56,0.0
+Stephen D. Stamatis,Eli Lilly and Company,56,0.0
+Fei Zhao,Carnegie Mellon University,56,0.0
+Marianthi Ierapetritou,University of Delaware,56,1.0
+Pooja Bhalode,Rutgers University,56,1.0
+Mesfin Abdi,Food and Drug Administration,56,2.0
+Daniel M. Casas-Orozco,Purdue University,56,2.0
+Xin Feng,Food and Drug Administration,56,2.0
+Carl Laird,Purdue University,56,2.0
+Su-Lin Lee,Food and Drug Administration,56,2.0
+Jaron Mackey,Purdue University,56,2.0
+Ahmed Mufti,Purdue University,56,2.0
+Zoltan K. Nagy,Purdue University,56,2.0
+Gintaras V. Reklaitis,Purdue University,56,2.0
+Erin Wood,Food and Drug Administration,56,2.0
+Daniel Laky,Purdue University,56,2.0
+Magdalene Chong,"EPSRC Future CMAC Research Hub, University of Strathclyde",56,3.0
+Frederik Doerr,University of Strathclyde,56,3.0
+Alastair J. Florence,University of Strathclyde,56,3.0
+Guillermo Jimeno,Process Systems Enterprise Ltd - A Siemens Business,56,3.0
+Wei Li,"EPSRC Future CMAC Research Hub, Loughborough University",56,3.0
+Patricia Marce Villa,"EPSRC Future CMAC Research Hub, University of Bath",56,3.0
+John McGinty,CMAC,56,3.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,56,3.0
+Sara Ottoboni,University of Strathclyde,56,3.0
+Elke Prasad,"EPSRC Future CMAC Research Hub, University of Strathclyde",56,3.0
+Chris Rielly,Loughborough University,56,3.0
+Murray Robertson,"EPSRC Future CMAC Research Hub, University of Strathclyde",56,3.0
+Chick Wilson,"EPSRC Future CMAC Research Hub, University of Bath",56,3.0
+Cameron Brown,Strathclyde Institute of Pharmacy and Biomedical Sciences,56,3.0
+Dana Barrasso,Process Systems Enterprise (PSE) Inc.- A Siemens Business,56,4.0
+Sean Bermingham,Process Systems Enterprise,56,4.0
+Filipe Calado,Process Systems Enterprise,56,4.0
+Ananya Chowdhury,Process Systems Enterprise (PSE) Inc.- A Siemens Business,56,4.0
+Edward Close,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,56,4.0
+Ugo Cocchini,UCB Pharma S.A.,56,4.0
+Sélim Douieb,UCB Pharma S.A. Belgium,56,4.0
+Amit Goda,"Process Systems Enterprise, Inc.",56,4.0
+Niall Mitchell,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,56,4.0
+Renato Wong,Process Systems Enterprise Ltd.,56,4.0
+Jonathan Meyer,Pfizer,56,4.0
+Rachel Apfelbaum,GSK R&D,56,5.0
+Dana Barrasso,Process Systems Enterprise (PSE) Inc.- A Siemens Business,56,5.0
+Ananya Chowdhury,Process Systems Enterprise (PSE) Inc.- A Siemens Business,56,5.0
+Edward Close,Process Systems Enterprise (PSE) Ltd.- A Siemens Business,56,5.0
+Yash Melkeri,GSK R&D,56,5.0
+Parind Desai,GSK R&D,56,5.0
+Tim Boung-Wook Lee,GSK R&D,56,5.0
+James D. Litster,University of Sheffield,56,6.0
+Chalak Omar,University of Sheffield,56,6.0
+Agba D. Salman,University of Sheffield,56,6.0
+David Slade,Process Systems Enterprise Limited,56,6.0
+Li Ge Wang,University of Sheffield,56,6.0
+Faustin Arevalo,New Jersey Institute of Technology,57,0.0
+Alexander Coelho,New Jersey Institute of Technology,57,0.0
+Mahbubur Rahman,New Jersey Institute of Technology,57,0.0
+Ecevit Bilgili,New Jersey Institute of Technology,57,0.0
+Paulo Lino,Hovione Farmaciência SA,57,1.0
+Rute F. Mota,Hovione Farmaciência SA,57,1.0
+Catarina M. Portugal,Hovione Farmaciência SA,57,1.0
+Ana-Aguiar Ricardo,Universidade NOVA de Lisboa,57,1.0
+João Vicente,Hovione Farmaciência SA,57,1.0
+Rui C. Silva,Universidade de Coimbra,57,1.0
+João Henriques,Hovione FarmaCiência SA,57,2.0
+Patricia Nunes,Hovione FarmaCiência SA,57,2.0
+Mafalda Paiva,Hovione FarmaCiência SA,57,2.0
+Maria Paisana,Hovione FarmaCiência SA,57,2.0
+Joseph W. Bullard,Vertex Pharmaceuticals,57,3.0
+Gneya Harish Pandya,Bristol Myers Squibb,57,3.0
+Catherine Metzler,Vertex Pharmaceuticals,57,3.0
+Zhanjie Liu,Rutgers University,57,4.0
+Fernando Muzzio,Rutgers University,57,4.0
+Luděk Ridvan,Zentiva k.s.,57,5.0
+Vít Zvoníček,Zentiva k.s.,57,5.0
+Jan Jirát,Zentiva k.s.,57,5.0
+Miroslav Soos,University of Chemistry and Technology Prague,57,5.0
+Ida(Xue) Chen,Dow Chemical Company,58,0.0
+Gregory Frank,Amgen Inc.,58,0.0
+William Grieco,RAPID,58,0.0
+Jaquan Levons,BMS,58,0.0
+Brendon G. Ricart,AbbVie Inc.,58,0.0
+Luke Rogers,On Demand Pharmaceuticals,58,0.0
+Joseph Wang,"University of California, San Diego",59,1.0
+Dimitrios Chapizanis,Aristotle University of Thessaloniki,59,2.0
+Spyros Karakitsios,Aristotle University of Thessaloniki,59,2.0
+Marianthi Kermenidou,Aristotle University of Thessaloniki,59,2.0
+Ioannis Petridis,Aristotle University of Thessaloniki,59,2.0
+Dimosthenis Sarigiannis,Aristotle University of Thessaloniki,59,2.0
+Kristin Persson,"University of California, Berkeley",60,0.0
+Joshua Schrier,Fordham University,60,1.0
+Connor W. Coley,Massachusetts Institute of Technology,60,2.0
+Shrilakshmi Bonageri,University of Washington,60,3.0
+Kacper Lachowski,University of Washington,60,3.0
+Maria Politi,University of Washington,60,3.0
+Jaime Rodriguez Jr.,University of Washington,60,3.0
+Sage Scheiwiller,University of Washington,60,3.0
+Caitlyn Wolf,University of Washington,60,3.0
+Lilo Pozzo,University of Washington,60,3.0
+Olexandr Isayev,Carnegie Mellon University,60,4.0
+Glen Bolton,Amgen,61,0.0
+Nitya Jacob,"Amgen, Inc.",61,0.0
+Pranali Shah,Amgen,61,0.0
+Nicholas Vecchiarello,Amgen,61,0.0
+Kevin D. Seibert,Eli Lilly and Company,61,1.0
+Katerina Williams,Eli Lilly,61,1.0
+Cyrus Fisher,Eli Lilly and Company,61,1.0
+Jerry Y. Y. Heng,Imperial College London,61,2.0
+Ian Rosbottom,Imperial College London,61,2.0
+Frederik J. Link,Imperial College London,61,2.0
+Nicholas Klitzing,Eli Lilly and Company,61,3.0
+Kevin D. Seibert,Eli Lilly and Company,61,3.0
+Frank Torres Torres,Eli Lilly and Company,61,3.0
+Nil Tandogan,Eli Lilly and Company,61,3.0
+Mick Mantle,University of Cambridge,62,0.0
+Naomi Briggs,On Demand Pharmaceuticals,62,1.0
+Annessa Burnett,Virginia Commonwealth University,62,1.0
+Anna Forzano,Virginia Commonwealth University,62,1.0
+Gregory Hammersmith,Virginia Commonwealth University,62,1.0
+Kersten Rapp,On Demand Pharmaceuticals,62,1.0
+Thomas D. Roper,Virginia Commonwealth University,62,1.0
+Sarah Aboelela,Virginia Commonwealth University,62,1.0
+Adrian Dobrowolski,TU Dortmund University,62,2.0
+Damian Pieloth,TU Dortmund University,62,2.0
+Gerhard Schaldach,TU Dortmund University,62,2.0
+Markus Thommes,TU Dortmund University,62,2.0
+Helmut Wiggers,TU Dortmund University,62,2.0
+Anna Justen,TU Dortmund,62,2.0
+Anish V. Dighe,University of Illinois at Chicago,62,3.0
+Andreas Linninger,University of Illinois at Chicago,62,3.0
+Meenesh R. Singh,University of Illinois at Chicago,62,3.0
+Ayankola Ayansiji,University of Illinois at Chicago,62,3.0
+Daniel Gehrke,University of Illinois at Chicago,62,4.0
+Andreas Linninger,University of Illinois at Chicago,62,4.0
+Meenesh R. Singh,University of Illinois at Chicago,62,4.0
+Ayankola Ayansiji,University of Illinois at Chicago,62,4.0
+Athanas Koynov,"Merck & Co., Inc.",62,5.0
+Joshua Lomeo,DigiM Solution LLC,62,5.0
+Shawn Zhang,DigiM Solution LLC,62,5.0
+Gregory E. Amidon,University of Michigan,62,6.0
+Gislaine Kuminek,University of Michigan,62,6.0
+Robert M. Ziff,University of Michigan,62,6.0
+Niloufar Salehi,University of Michigan,62,6.0
+Claire S. Adjiman,Imperial College London,63,0.0
+Constantinos C. Pantelides,Imperial College London,63,0.0
+Susan M. Reutzel-Edens,Eli Lilly & Company,63,0.0
+Isaac J. Sugden,Imperial College London,63,0.0
+Yizu Zhang,Imperial College London,63,0.0
+Bryan G. Alamani,University of the Philippines,63,1.0
+Gerard Capellades,Massachusetts Institute of Technology,63,1.0
+Allan S. Myerson,Massachusetts Institute of Technology,63,1.0
+Jem Valerie D. Perez,University of the Philippines,63,1.0
+Isaac Jerome C. Dela Cruz,University of the Philippines,63,1.0
+Ashley Conley,University of Virginia,63,2.0
+Stephanie Guthrie,University of Virginia,63,2.0
+Gaurav Giri,University of Virginia,63,2.0
+Gaurav Giri,University of Virginia,63,3.0
+Stephanie Guthrie,University of Virginia,63,3.0
+Qiuxiang Yin,Tianjin University,63,4.0
+Ling Zhou,Tianjin University,63,4.0
+Jiayu Dai,Tianjin University,63,4.0
+Yingjie Chen,University of Delaware,64,0.0
+Marianthi Ierapetritou,University of Delaware,64,0.0
+Pooja Bhalode,Rutgers University,64,0.0
+David Henthorn,Rose-Hulman Institute of Technology,64,1.0
+Willy Araujo,Federal University of Campina Grande,64,2.0
+Heleno Bispo,Federal University of Campina Grande,64,2.0
+Fernando V. Lima,West Virginia University,64,2.0
+Selorme Agbleze,West Virginia University,64,2.0
+Jeffrey E. Arbogast,"Process Control & Logistics, Air Liquide",64,3.0
+Ulku Oktem,Near-Miss Management LLC,64,3.0
+Warren D. Seider,The University of Pennsylvania,64,3.0
+Masoud Soroush,Drexel University,64,3.0
+Leila Samandari Masooleh,Drexel University,64,3.0
+Timothy J. Watson,Pfizer Inc,65,0.0
+Kevin Fitzpatrick,AbbVie,65,1.0
+Anita Lalloo,"Merck & Co., Inc.",65,2.0
+Pablo Rolandi,Amgen Inc,65,3.0
+Mike Filios,Vertex,65,4.0
+Cristian Harrison,Vertex,65,4.0
+Adam Looker,Vertex Pharmaceuticals Inc.,65,4.0
+David Moon,Vertex,65,4.0
+Brian Phenix,Vertex Pharmaceuticals,65,4.0
+Michael Ryan,Vertex Pharmaceuticals Inc.,65,4.0
+David Willcox,Vertex Pharmaceuticals Inc.,65,4.0
+Billie Kline,Vertex Pharmaceuticals,65,4.0
+Thomas D. Roper,Virginia Commonwealth University,65,5.0
+Sharmista Chatterjee,FDA/CDER/OPQ/OPF,66,0.0
+Sharmista Chatterjee,FDA/CDER/OPQ/OPF,66,1.0
+Kevin Fitzpatrick,AbbVie,66,1.0
+Billie Kline,Vertex Pharmaceuticals,66,1.0
+Anita Lalloo,"Merck & Co., Inc.",66,1.0
+Pablo Rolandi,Amgen Inc,66,1.0
+Thomas D. Roper,Virginia Commonwealth University,66,1.0
+Timothy J. Watson,Pfizer Inc,66,1.0
