@@ -1,0 +1,61 @@
+---
+title: "Exploring AIChE 2020 PD2M Sessions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I wanted to explore AIChE 2020 PD2M sessions to understand the following:
+
+* People with high number of talks
+* Companies/University with high number of talks
+* Mix of industry vs university talks
+
+```{r}
+library(gt)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+top_auth = read.csv("tables/top_auth.csv", stringsAsFactors = FALSE)
+top_auth %>% rename(talks = n, affiliation = affil_clean) %>% head(15) %>% gt()
+```
+
+```{r}
+top_affil = read.csv("tables/top_affil.csv", stringsAsFactors = FALSE)
+top_affil %>% rename(affiliation = affil_clean, talks = n) %>% head(15) %>% gt()
+```
+
+```{r}
+induniv_summary = read.csv("tables/induniv_summ.csv", stringsAsFactors = FALSE)
+lbl_map = c("ind only" = "industry", "univ only" = "university", "ind_univ" = "industry/university")
+induniv_summary = induniv_summary %>% mutate(type_lbl = lbl_map[type],
+                                             pct_talks = paste0(round(n_pct * 100),"%"))
+induniv_summary %>% select(type_lbl, pct_talks) %>% gt()
+```
+
+```{r}
+induniv_collab = read.csv("tables/induniv_collab.csv", stringsAsFactors = FALSE)
+induniv_collab = induniv_collab %>% filter(affil_clean %in% c("eli lilly", "abbvie", "pfizer", "astrazeneca", "wuxi"))
+induniv_collab %>% gt()
+```
+
+```{r}
+sort_ind = read.csv("tables/sort_ind.csv", stringsAsFactors = FALSE)
+sort_ind = sort_ind %>% mutate(pct_univ = paste0(round(univ.only * 100),"%"),
+                               url = paste0("https://plan.core-apps.com", session_url))
+
+make_hyperlink = function(myurl,mytext="link") {
+  paste('<a href="',myurl,'">',mytext,'</a>')
+}
+
+
+sort_ind %>% select(pct_univ, session, url) %>% gt() %>%
+  fmt (
+    columns = 'url',
+    fns = make_hyperlink
+  )
+```

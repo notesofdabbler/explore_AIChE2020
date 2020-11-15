@@ -85,7 +85,7 @@ affil_id,affil,affil_clean,univ
 228,fda/cder,fda,0
 348,fda/cder/opq/opf,fda,0
 341,federal university of campina grande,federal university of campina grande,1
-312,federal university of sí£o carlos,federal university of sí£o carlos,1
+312,federal university of s’£o carlos,federal university of s’£o carlos,1
 232,food and drug administration,fda,0
 334,fordham university,fordham university,0
 264,forge nano inc.,forge nano inc.,0
@@ -104,7 +104,7 @@ affil_id,affil,affil_clean,univ
 282,head of r&d,head of r&d,0
 319,hosokawa micron b.v.,hosokawa micron b.v.,0
 11,hovione,hovione,0
-10,hovione farmaciíÈncia sa,hovione,0
+10,hovione farmaci’éncia sa,hovione,0
 309,hovione farmaciencia sa,hovione,0
 65,"hovione farmaciencia, s.a.",hovione,0
 302,idaho national laboratory,idaho national laboratory,0
@@ -160,7 +160,7 @@ affil_id,affil,affil_clean,univ
 72,norwich university,norwich university,1
 318,novartis pharma ag,novartis pharma ag,0
 178,"nsf's chemmatcars, university of chicago","nsf's chemmatcars, university of chicago",0
-213,ntnu,ntnu,0
+213,ntnu,ntnu,1
 115,"office of testing and research, u.s. food and drug administration",fda,0
 240,ohio state university,ohio state university,1
 189,oklahoma state university,oklahoma state university,1
@@ -190,7 +190,7 @@ affil_id,affil,affil_clean,univ
 17,purdue university,purdue university,1
 281,qualicaps,qualicaps,0
 106,queen's university belfast,queen's university belfast,1
-105,queenäó»s university belfast,queen's university belfast,1
+105,queen_—Ès university belfast,queen's university belfast,1
 315,rapid,rapid,0
 283,rcpe,rcpe,0
 159,rcpe gmbh,rcpe gmbh,1
@@ -214,7 +214,7 @@ affil_id,affil,affil_clean,univ
 19,slac national accelerator laboratory,slac national accelerator laboratory,0
 155,slovak university of technology,slovak university of technology,1
 61,snapdragon chemistry,snapdragon chemistry,0
-104,socií©tí© nouvelle d'affinage des mí©taux (snam),socií©tí© nouvelle d'affinage des mí©taux (snam),0
+104,soci’©t’© nouvelle d'affinage des m’©taux (snam),soci’©t’© nouvelle d'affinage des m’©taux (snam),0
 216,south dakota school of mines and technology,south dakota school of mines and technology,1
 30,stanford university,stanford university,1
 108,strathclyde institute of pharmacy and biomedical sciences,strathclyde institute of pharmacy and biomedical sciences,0
@@ -345,5 +345,5 @@ affil_id,affil,affil_clean,univ
 54,xtalpi inc,xtalpi inc,0
 55,xtalpi inc.,xtalpi inc.,0
 331,zentiva k.s.,zentiva k.s.,0
-49,zhejiang university,zhejiang university,0
-268,zhejiang university of technology,zhejiang university of technology,0
+49,zhejiang university,zhejiang university,1
+268,zhejiang university of technology,zhejiang university of technology,1
