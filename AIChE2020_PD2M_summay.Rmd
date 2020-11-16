@@ -4,10 +4,10 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
-I wanted to explore AIChE 2020 PD2M sessions to understand the following:
+I wanted to explore AIChE 2020 [PD2M](https://plan.core-apps.com/aiche2020/events?trackIds=94693210d53140b389648b84df76b433) sessions to understand the following:
 
 * People with high number of talks
 * Companies/University with high number of talks
@@ -19,35 +19,68 @@ library(dplyr)
 library(ggplot2)
 ```
 
+## Authors with high number of talks
+
 ```{r}
 top_auth = read.csv("tables/top_auth.csv", stringsAsFactors = FALSE)
-top_auth %>% rename(talks = n, affiliation = affil_clean) %>% head(15) %>% gt()
+top_auth %>% rename(talks = n, affiliation = affil_clean) %>% 
+  head(15) %>% gt() %>% opt_row_striping() %>% 
+    cols_label(author = md("**author**"),
+              talks = md("**talks**"),
+              affiliation = md("**affiliation**"))
 ```
+
+## Companies/Universities with high number of talks
 
 ```{r}
 top_affil = read.csv("tables/top_affil.csv", stringsAsFactors = FALSE)
-top_affil %>% rename(affiliation = affil_clean, talks = n) %>% head(15) %>% gt()
+top_affil %>% rename(affiliation = affil_clean, talks = n) %>% 
+     head(15) %>% gt() %>%
+       cols_label(affiliation = md("**Company/University**"),
+                  talks = md("**talks**")) %>% opt_row_striping()
 ```
+
+## Mix of Industry/University Talks
+
+This year the mix of university/industry talks is about 50/50 split between university only talks and industry or industry/university talks. Industry/University talks make up ~20% of the talks.
 
 ```{r}
 induniv_summary = read.csv("tables/induniv_summ.csv", stringsAsFactors = FALSE)
 lbl_map = c("ind only" = "industry", "univ only" = "university", "ind_univ" = "industry/university")
 induniv_summary = induniv_summary %>% mutate(type_lbl = lbl_map[type],
                                              pct_talks = paste0(round(n_pct * 100),"%"))
-induniv_summary %>% select(type_lbl, pct_talks) %>% gt()
+induniv_summary %>% select(type_lbl, pct_talks) %>% gt() %>%
+       cols_label(type_lbl = md("**Type**"), pct_talks = md("**% talks**"))
 ```
 
+## Industry Collaboration Network
+
+Different companies have different academic collaborations. The table below shows the university collaborations for select companies.
+
 ```{r}
+
 induniv_collab = read.csv("tables/induniv_collab.csv", stringsAsFactors = FALSE)
 induniv_collab = induniv_collab %>% filter(affil_clean %in% c("eli lilly", "abbvie", "pfizer", "astrazeneca", "wuxi"))
-induniv_collab %>% gt()
+induniv_collab %>% select(-cnt) %>% group_by(affil_clean) %>% gt() %>%
+       cols_label(affil_clean_univ = md("**University**")) %>%
+       tab_style(
+         style = list(
+             cell_fill(color = "lightblue")
+         ),
+         locations = cells_row_groups()
+       )
 ```
+
+## Session Mix (Industry vs University Talks)
+
+The table below is sorted in order of % of university only talks: 0% indicating all talks in the session are by industry, 100% indicating all talks in the session are by universities.
 
 ```{r}
 sort_ind = read.csv("tables/sort_ind.csv", stringsAsFactors = FALSE)
 sort_ind = sort_ind %>% mutate(pct_univ = paste0(round(univ.only * 100),"%"),
                                url = paste0("https://plan.core-apps.com", session_url))
 
+# https://community.rstudio.com/t/create-interactive-links-in-gt-table-in-rmarkdown/70266/2
 make_hyperlink = function(myurl,mytext="link") {
   paste('<a href="',myurl,'">',mytext,'</a>')
 }
@@ -57,5 +90,12 @@ sort_ind %>% select(pct_univ, session, url) %>% gt() %>%
   fmt (
     columns = 'url',
     fns = make_hyperlink
-  )
+  ) %>% cols_label(pct_univ = md("**% University Talks**"),
+                   session = md("**session**"),
+                   url = md("**url**")) %>% opt_row_striping()
 ```
+
+## References
+
+* [python code](https://github.com/notesofdabbler/explore_AIChE2020/blob/main/scrape_AIChE2020_PD2M.py) for scraping the PD2M sessions
+* [R code](https://github.com/notesofdabbler/explore_AIChE2020/blob/main/explore_AIChE2020_PD2M.R) for exploring the PD2M sessions.
